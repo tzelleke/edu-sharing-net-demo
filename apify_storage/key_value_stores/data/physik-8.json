@@ -1,0 +1,422 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "215742",
+        "subject": "Ph",
+        "year": 8,
+        "section": "Lernbereich 1:",
+        "text": "Elektrischer Strom",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "nutzen ein anschauliches Modell zum elektrischen Stromkreis, um die elektrischen Grundgrößen Stromstärke, Spannung und Widerstand zu veranschaulichen und Zusammenhänge zwischen diesen Größen zu erläutern. Dabei grenzen sie alltagssprachliche Formulierungen von fachsprachlich korrekten ab. An ausgewählten Stellen erläutern sie Grenzen des verwendeten Modells.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "entwerfen unter Anleitung einen Versuchsaufbau zur Aufnahme von Kennlinien. Sie führen ihre Messungen unter angeleiteter Verwendung von Stromstärke- und Spannungsmessgeräten durch und fertigen mit Hilfe ein strukturiertes Versuchsprotokoll an. Sie sind sich wesentlicher Gefahren des elektrischen Stroms bewusst und berücksichtigen Sicherheitsvorkehrungen beim Experimentieren.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "wenden die Definitionsgleichung des elektrischen Widerstands an, um Berechnungen in einem einfachen elektrischen Stromkreis durchzuführen. Hierbei gehen sie sicher mit den Einheiten der elektrischen Grundgrößen um und berücksichtigen die Genauigkeit experimentell ermittelter Werte.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "recherchieren in vorgegebenen Quellen, z. B. im Internet, wie Schaltkreise im Haushalt, insbesondere aufgrund von Sicherheitsaspekten, aufgebaut sind. Sie stellen ihre Rechercheergebnisse unter Anleitung in Form von Schaltbildern und fachsprachlich korrekten Texten dar.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "planen selbständig die experimentelle Untersuchung von Stromstärken und Spannungen in Reihen- und Parallelschaltungen. Sie führen diese Untersuchung – mit Hilfe bei der Verwendung von Stromstärke- und Spannungsmessgeräten – selbständig durch und erstellen selbständig ein strukturiertes Versuchsprotokoll.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern unter Verwendung des eingeführten Modells zum elektrischen Stromkreis und geeigneter Rechnungen Beobachtungen zu Stromstärken und Spannungen in elektrischen Schaltungen mit maximal drei Widerständen.",
+              "competencies": ""
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Modell des elektrischen Stromkreises, elektrische Stromstärke, Festlegung der Stromrichtung, elektrische Spannung als Antrieb für den elektrischen Strom, Gleich- und Wechselstrom",
+              "competencies": "Gegenstandsbereiche: Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Schülerexperiment: Messen elektrischer Größen und Erstellen der Kennlinien für einen Ohm‘schen und einen nicht-Ohm‘schen Widerstand",
+              "competencies": ""
+            },
+            {
+              "text": "elektrischer Widerstand, Leiter, Isolator, Kurzschluss",
+              "competencies": "Gegenstandsbereiche: Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "einfache technische Anwendungen im Bereich der Haushaltsinstallation",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment: Untersuchung von Stromstärken und Spannungen in Reihen- und Parallelschaltungen, Stromstärken und Spannungen in elektrischen Schaltungen mit maximal drei Widerständen",
+              "competencies": "Gegenstandsbereiche: Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215729",
+        "subject": "Ph",
+        "year": 8,
+        "section": "Lernbereich 2:",
+        "text": "Optik",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "formulieren auf der Grundlage von Alltagserfahrungen, einfachen Experimenten und physikalischen Vorkenntnissen eigene Vermutungen und Erklärungsansätze zu optischen Phänomenen (z. B. Spiegelbilder, Brechung).",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "verwenden ein einfaches Modell der Lichtausbreitung und des Reflexionsgesetzes, um am Beispiel des Spiegels eine physikalisch strukturierte Erklärung der Entstehung von Bildern nachzuvollziehen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "planen unter Anleitung ein Experiment zur Untersuchung der Abbildung durch eine Sammellinse, das sie selbständig durchführen und dokumentieren. Sie formulieren auf der Grundlage ihrer Beobachtungen und Messergebnisse halbquantitative Aussagen über Zusammenhänge zwischen den dabei relevanten Größen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "analysieren mithilfe einer geeigneten Simulationssoftware die Lichtausbreitung an einer Sammellinse und übertragen unter Verwendung halbquantitativer Aussagen zum Brechungsgesetz die Struktur physikalischer Argumentationsweisen auf eigene Erklärungen zur Entstehung virtueller und reeller Bilder bei einer Sammellinse. Sie veranschaulichen ihre Erklärungen mithilfe selbst angefertigter Zeichnungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "benennen Risiken bei Experimenten in der Optik und beim Umgang mit Lichtquellen und optischen Geräten im Alltag (z. B. bei der Verwendung von Sammellinsen und bei der Handhabung von Laserpointern) und reflektieren vorgegebene Sicherheitshinweise.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "vergleichen Rechercheergebnisse im Internet mit einem vorgegebenen, passgenauen Sachtext, z. B. zur Bildentstehung beim Auge. Sie erstellen fachsprachlich korrekte Zusammenfassungen dieser Quellen und fertigen aussagekräftige Zeichnungen sorgfältig an bzw. nutzen digitale Medien zur Veranschaulichung.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "beschreiben auf der Grundlage physikalischer Kenntnisse technische Anwendungen der Totalreflexion und erläutern die Bedeutung dieser Technologien z. B. in der Medizin oder in der Nachrichtentechnik.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Schülerexperiment: Bildentstehung am Spiegel, Reflexionsgesetz, Spiegel und virtuelles Bild",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Brechung",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Schülerexperiment: Abbildung durch eine Sammellinse, Entstehung reeller und virtueller Bilder",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Auge und Fehlsichtigkeit, Zerstreuungslinsen",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Totalreflexion und technische Anwendungen, Lichtleiter",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215732",
+        "subject": "Ph",
+        "year": 8,
+        "section": "Lernbereich 3:",
+        "text": "Mechanik",
+        "estimate": 28
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "215735",
+        "subject": "Ph",
+        "year": 8,
+        "section": "3.1",
+        "text": "Dynamik zweidimensionaler Bewegungen",
+        "estimate": 17
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "wenden die Definitionsgleichung der Geschwindigkeit an, um Geschwindigkeiten abzuschätzen, im Rahmen von experimentellen Untersuchungen zu bestimmen und einfache Berechnungen durchzuführen. Hierbei gehen sie sicher mit Einheiten und der Genauigkeit von Messwerten um.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "kennzeichnen in Stroboskopdarstellungen oder mithilfe geeigneter Software in Videos von zweidimensionalen Bewegungen die Geschwindigkeit eines Körpers, indem sie Pfeile als fachtypische Darstellungsform verwenden.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "bestimmen zeichnerisch die Geschwindigkeitsänderung und die Geschwindigkeit vor bzw. nach einer Krafteinwirkung für das betreffende Zeitintervall.",
+              "competencies": ""
+            },
+            {
+              "text": "analysieren Geschwindigkeitsänderungen von Bewegungen: Sie beschreiben maßgebliche Größenabhängigkeiten mithilfe von Je-desto-Aussagen, machen das zweite Newton’sche Gesetz in der Form F ⋅ Δt = m ⋅ Δv plausibel und nutzen diese Gleichung zur Definition der physikalischen Größe Kraft. Sie argumentieren mit den jeweils relevanten Größenabhängigkeiten in alltagsrelevanten Kontexten, insbesondere aus dem Straßenverkehr oder aus dem Sport, auch um die Beträge von Kräften abzuschätzen und Risiken zu beurteilen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "nutzen im Spezialfall eindimensionaler Bewegungen das zweite Newton‘sche Gesetz und die Beschleunigung für Argumentationen und einfache Berechnungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "planen unter Anleitung ein Experiment zur Bestimmung der Beschleunigungen von Körpern aus gemessenen Geschwindigkeitsänderungen, beispielsweise mithilfe von Sensoren oder einer Videoanalyse, das sie mit Hilfe durchführen und auswerten.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Betrag der Geschwindigkeit",
+              "competencies": ""
+            },
+            {
+              "text": "Geschwindigkeit bei zweidimensionalen Bewegungen, Geschwindigkeitspfeil zur Veranschaulichung",
+              "competencies": ""
+            },
+            {
+              "text": "Geschwindigkeitsänderung bei zweidimensionalen Bewegungen als Folge einer Krafteinwirkung, Pfeil der Geschwindigkeitsänderung",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "zweites Newton’sches Gesetz in der Form F ⋅ Δt = m ⋅ Δv, Definition der physikalischen Größe Kraft, Masse als Maß für die Trägheit eines Körpers, Prinzip der dynamischen Kraftmessung",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Beschleunigung, Kraft als Produkt von Masse und Beschleunigung im Spezialfall der eindimensionalen Bewegung, Schülerexperiment: Bestimmung der Beschleunigung eines Körpers",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "215758",
+        "subject": "Ph",
+        "year": 8,
+        "section": "3.2",
+        "text": "Kräfte und ihre Wirkungen",
+        "estimate": 11
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "unterscheiden zwischen Masse und Gewichtskraft und untersuchen insbesondere auch alltagssprachliche Formulierungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "analysieren alltägliche Bewegungen unter dem Einfluss mehrerer Kräfte und übertragen ihre Kenntnisse zur Addition von Geschwindigkeitspfeilen auf die Addition von Kräften. Am Beispiel der schiefen Ebene führen sie mit der Zerlegung einer Kraft in Komponenten vorgegebener Richtungen auch die Umkehrung dieser Operation durch.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "argumentieren in alltagsrelevanten Kontexten mit dem Trägheitsgesetz und dem Kräftegleichgewicht. Sie verfassen, unterstützt durch selbst angefertigte aussagekräftige Skizzen, kurze Texte mit physikalisch schlüssigen Argumentationen. Sie nutzen das Kräftegleichgewicht zur statischen Kraftmessung.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "identifizieren in einer vorgegebenen Bewertung zu einer einfachen kontextbezogenen Problemstellung aus der Mechanik physikalische und außerfachliche Argumente und analysieren die argumentative Struktur der Bewertung. Im Zusammenhang mit vorgegebenen Gefahrensituationen im Straßenverkehr erklären sie auf der Grundlage des Trägheitssatzes und des zweiten Newton’schen Gesetzes die Bedeutung wichtiger Sicherheitssysteme im Auto.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "stellen Alltagsvorstellungen zu Bewegungen und ihren Ursachen deren physikalische Beschreibung gegenüber und vollziehen in diesem Zusammenhang einen wesentlichen Erkenntnisfortschritt durch die physikalische Sicht auf die Natur nach.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "planen unter Anleitung einen geeigneten Versuch, um einen Zusammenhang zwischen Kraft und Verformung dehnbarer Körper zu untersuchen, führen diesen selbständig durch und protokollieren ihn selbständig. Sie verwenden ein Tabellenkalkulationsprogramm, um die Messwerte, auch unter Verwendung von Ausgleichsgeraden, graphisch auszuwerten, und identifizieren dabei den Hooke’schen Bereich.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Bewegungen unter dem Einfluss der Gewichtskraft, freier Fall als Beispiel einer eindimensionalen Bewegung, Fallbeschleunigung, Zusammenhang zwischen Masse und Gewichtskraft",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Bewegungen unter dem Einfluss mehrerer Kräfte, Kräfteaddition, Hinweis auf Reibungskräfte einschließlich des Luftwiderstands",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Kräftegleichgewicht, Trägheitssatz",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Kräftezerlegung an der schiefen Ebene",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "statische Kraftmessung mittels Kräftegleichgewicht",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Kräfte als Ursache einer Verformung, Schülerexperiment: Dehnung-Kraft-Diagramme und \r\nHooke’scher Bereich",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215759",
+        "subject": "Ph",
+        "year": 8,
+        "section": "Lernbereich 4:",
+        "text": "Profilbereich am NTG",
+        "estimate": 28
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "215761",
+        "subject": "Ph",
+        "year": 8,
+        "section": "4.1",
+        "text": "Untersuchungen an Solarzellen und anderen Elektrizitätsquellen",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "messen selbständig Stromstärken und Spannungen in Reihen- und Parallelschaltungen von Solarmodulen, variieren äußere Einflussgrößen (z. B. Neigungswinkel, Beschattung) und ziehen Schlussfolgerungen für eine optimale Nutzung von Solarmodulen, die sie beispielsweise in Form einer Betriebsanleitung formulieren. Sie testen die Verwendbarkeit von Solarmodulen in unterschiedlichen technischen Anwendungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "untersuchen experimentell Aufbau und Eigenschaften weiterer Elektrizitätsquellen (z. B. Modellversuch zum galvanischen Element, Untersuchung der Ausgangsspannungen unterschiedlicher Netzgeräte, Innenwiderstand und Klemmenspannung einer Batterie und einer Solarzelle) und interpretieren ausgewählte Beobachtungen mithilfe ihrer theoretischen Kenntnisse zum elektrischen Stromkreis.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Schülerexperimente: Untersuchung von Solarmodulen in Reihen- und Parallelschaltungen, Variation äußerer Einflussgrößen",
+              "competencies": "Gegenstandsbereiche: Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Aufbau und Eigenschaften weiterer Elektrizitätsquellen",
+              "competencies": "Gegenstandsbereiche: Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "215764",
+        "subject": "Ph",
+        "year": 8,
+        "section": "4.2",
+        "text": "Vertiefung prozessbezogener Kompetenzen anhand ausgewählter Inhalte",
+        "estimate": 18
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "führen weitgehend selbständig Experimente zur Beobachtung von Phänomenen sowie zur Beantwortung vorgegebener Fragestellungen durch. Sie werten experimentelle Daten unter Verwendung vorgegebener Darstellungsformen weitgehend selbständig aus, auch unter Verwendung geeigneter digitaler Hilfsmittel.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "interpretieren Beobachtungen und Daten im Rahmen der Auswertung mit fachsprachlich korrekten Formulierungen oder einfachen Formen der Mathematisierung, ggf. unter Verwendung ihnen bereits bekannter Konzepte oder Modelle. Sie beschreiben die experimentelle Arbeitsweise in den wesentlichen Teilschritten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "entnehmen selbständig Informationen aus angemessenen Quellen und führen dabei auch Informationen aus mehreren Quellen, auch solchen im Internet, zusammen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "dokumentieren weitgehend selbständig experimentelle Untersuchungen sowie durch die Arbeit mit Modellen gewonnene Ergebnisse. Hierbei berücksichtigen sie Vorgaben zur Art und Struktur der Dokumentation und setzen vorgegebene fachtypische Darstellungsformen sachgerecht ein (z. B. Pfeile, Diagramme).",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "präsentieren Arbeitsergebnisse sachgerecht in mündlichen Beiträgen, Kurzreferaten oder anhand von Dokumentationen und verwenden hierbei bewusst wichtige Fachbegriffe des jeweiligen Themengebiets. Sie übertragen gebräuchliche alltagssprachliche Formulierungen in fachsprachliche Aussagen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "untersuchen die Struktur von Bewertungen zu einfach strukturierten Problemstellungen auf der Grundlage bereits erworbener Fachkenntnisse sowie weitgehend selbständig gewonnener Arbeitsergebnisse (z. B. durch Textarbeit oder Recherche). Sie formulieren zu solchen Kontexten auch eigene kurze Bewertungen. Sie reflektieren, dass sich Bewertungen aufgrund der Auswahl und der Gewichtung von Kriterien unterscheiden können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Bau und Anwendung einfacher elektrischer Geräte und Schaltungen, z. B. Leitfähigkeitsmesser, elektrisches Thermometer",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Reflexion und Bildentstehung an gewölbten Spiegeln, Lupe, Bau optischer Instrumente, Ergänzung der experimentellen Untersuchungen durch geeignete Simulationssoftware",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Farbwahrnehmung und Farbmischung, Dispersion bei der Brechung von Licht",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Messung von Geschwindigkeiten und Beschleunigungen in Alltagssituationen und im Sport, auch mithilfe geeigneter Sensoren, theoretische Betrachtungen zu den gemessenen Größen",
+              "competencies": ""
+            },
+            {
+              "text": "Untersuchung zweidimensionaler Bewegungen und Ermittlung wirkender Kräfte in Beispielen aus dem Sport durch Erstellung und Auswertung von Stroboskopaufnahmen oder Videoanalyse",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "219598",
+        "subject": "B",
+        "year": 10,
+        "section": "Lernbereich 1:",
+        "text": "Erkenntnisse gewinnen – kommunizieren – bewerten",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "leiten aus komplex strukturierten Alltags- und Naturphänomenen biologische Fragestellungen ab und planen hypothesengeleitet z. B. Beobachtungen und Experimente zu deren qualitativer und quantitativer Beantwortung.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen u. a. selbstgeplante naturwissenschaftliche Untersuchungen durch. Dabei nehmen sie die Dokumentation, Auswertung und Veranschaulichung der erhobenen Daten (auch mit digitalen Hilfsmitteln) selbständig vor.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Gültigkeit von erhobenen oder recherchierten Daten und finden in diesen Daten Trends, Strukturen und Beziehungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beschreiben Grenzen des im Rahmen eines naturwissenschaftlichen Erkenntniswegs generierten Wissens und leiten daraus Aussagen zur Gültigkeit dieses Wissens ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beschreiben Wechselwirkungen und Stoffwechselprozesse (z. B. Enzymatik) mithilfe von Modellen. Sie entwickeln zu einem Sachverhalt alternative Modelle. Dabei erkennen sie Stärken und Schwächen einzelner Modelle und leiten daraus die Notwendigkeit ab, Modelle kritisch zu betrachten und weiterzuentwickeln.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "unterscheiden zwischen alltags- und fachsprachlichen Texten. Sie wählen mediale Informationsquellen begründet aus und entnehmen gezielt Inhalte zur adressaten- und situationsgerechten Beantwortung biologischer Fragestellungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "formulieren unter Nutzung fachwissenschaftlicher Erkenntnisse der Biologie systematisch und begründet Handlungsoptionen, wenden dabei Entscheidungsstrategien an und reflektieren über getroffene Entscheidungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Folgen von Maßnahmen und Verhaltensweisen für die eigene Gesundheit und die Gesundheit anderer, um auch unter Einbezug gesellschaftlicher Perspektiven bewusste wertorientierte Entscheidungen für die Gesunderhaltung treffen zu können (z. B. Impfungen).",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "naturwissenschaftlicher Erkenntnisweg (Fragestellung, Hypothese, Planung und Durchführung von naturwissenschaftlichen Untersuchungen, Datenauswertung (ggf. digital) und Dateninterpretation): u. a. Hypothesenprüfung, Fehlerquellen (z. B. Wahl der Reaktionsbedingungen)",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Arbeitstechniken: u. a. sachgerechter Umgang mit Geräten (u. a. einfache Laborgeräte), Anwendung von Laborregeln",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Entwicklung und Eigenschaften naturwissenschaftlichen Wissens: u. a. empirische Daten als Gültigkeitskriterien für biologische Modelle und Theorien, Vorläufigkeit, Subjektivität",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Eigenschaften und Grenzen von materiellen und ideellen Modellen: u. a. Schlüssel-Schloss-Modell",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Anfertigung und Auswertung verschiedener Darstellungsformen (auch mithilfe digitaler Medien), Wechsel der Darstellungsform: u. a. Symbol- und Formelsprache, Diagramme zur Darstellung qualitativer Zusammenhänge (z. B. Concept-Maps), Darstellung quantitativer Zusammenhänge (Diagramme mit mehreren Datenreihen und mehreren abhängigen Variablen)",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "Quellen: v. a. Fachliteratur (u. a. Nutzung wissenschaftlicher Suchmaschinen im Internet)",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "Gesundheitsbewusstsein und Verantwortung: u. a. Hygiene, Impfung, Ernährung",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "Entscheidungsfindung als systematischer und begründeter Prozess: Erkennen, Priorisieren und Abwägen von Bewertungskriterien; Formulierung von Handlungsoptionen, Reflexion von Entscheidungen; gesellschaftlich relevante Errungenschaften der Biologie und verwandter Disziplinen (u. a. Impfungen, Antibiotika) und deren Auswirkung auf Mensch und Umwelt",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "Hinweise auf Berufs- und Studienfelder der Biologie und angrenzender Disziplinen",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "219594",
+        "subject": "B",
+        "year": 10,
+        "section": "Lernbereich 2:",
+        "text": "Ökosystem Mensch",
+        "estimate": 16
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben Wechselbeziehungen zwischen dem Menschen und anderen Lebewesen, die auf und im menschlichen Körper leben, um Maßnahmen und Verhaltensweisen für eine gesundheitsbewusste Lebensführung abzuleiten.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "unterscheiden bakterielle und virale Infektionen, beschreiben an ausgewählten Beispielen deren Verlauf und beurteilen Möglichkeiten und Grenzen des Infektionsschutzes und der Therapie.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "erläutern körpereigene unspezifische sowie spezifische Abwehrmechanismen zum Schutz vor Parasiten und Krankheitserregern und beschreiben Allergien als Fehlreaktionen des Immunsystems.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Information und Kommunikation | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erläutern das Prinzip der aktiven und passiven Immunisierung sowie die Notwendigkeit von vorbeugenden Schutzimpfungen, um in entsprechenden Lebenssituationen sachgerecht handeln zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "beurteilen am Beispiel des Einsatzes von Antibiotika die Auswirkungen eines Eingriffes in die Biozönose des Ökosystems Mensch und erläutern die Risiken einer nichtsachgemäßen Verwendung.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | System <br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Biozönose in Wechselbeziehung mit dem Menschen: Symbionten (z. B. Bakterien im Darm und auf der Haut), Parasiten und Krankheitserreger (z. B. Plasmodien, Borrelien), ggf. weitere",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Bakterien als Krankheitserreger: Populationsentwicklung der Erreger, Schädigung des Menschen (z. B. durch Abgabe von Giftstoffen), Angepasstheiten an den Menschen als Ökosystem (z. B. anaerober Stoffwechsel bei Darmbakterien)",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Viren als Krankheitserreger: Bau und lytischer Vermehrungszyklus von Viren",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Verhaltensweisen zur Vermeidung einer Infektion: Übertragungswege von Krankheitserregern, Hygiene und Körperpflege, gezielte Schutzmaßnahmen (u. a. gegen HIV)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "unspezifische Abwehr einer Infektion: Haut und Schleimhäute (Symbionten), Magensäure, Leukocyten, antimikrobielle Proteine, Entzündungsreaktion",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Information und Kommunikation | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "spezifische Abwehr einer Infektion: Erkennen körperfremder Antigene, Bildung von Antikörpern, humorale und zellvermittelte Immunantwort durch Leukocyten, Fehlreaktion des Immunsystems (Allergie, z. B. Pollenallergie)",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Information und Kommunikation | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "primäre und sekundäre Immunantwort, aktive und passive Immunisierung, Schutzimpfungen, gesellschaftliche Bedeutung (Impfempfehlungen, Impfmüdigkeit)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Antibiotika: Einflüsse auf das Ökosystem Mensch, Resistenzbildung",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System <br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "219596",
+        "subject": "B",
+        "year": 10,
+        "section": "Lernbereich 3:",
+        "text": "Stoff- und Energieumwandlung im Menschen",
+        "estimate": 33
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "219583",
+        "subject": "B",
+        "year": 10,
+        "section": "3.1",
+        "text": "Biomoleküle als Energieträger und Baustoffe",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben den Menschen als offenes System, der für die Aufrechterhaltung seines Stoffwechsels und damit für sein Überleben Energieträger und Baustoffe zu sich nehmen muss.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | System <br />\n<br />"
+            },
+            {
+              "text": "vergleichen ausgewählte Inhaltsstoffe von Nahrungsmitteln anhand des molekularen Baus, um sie den Makronährstoffgruppen (Kohlenhydrate, Fette, Proteine) zuzuordnen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "leiten aus der Bedeutung von Makronährstoffen und Mikronährstoffen (Vitamine und Mineralsalze) für den Körper und der Zusammensetzung von Nahrungsmitteln ein den Lebensumständen angepasstes, ausgewogenes Ernährungskonzept ab.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | System <br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Mensch als offenes System, Makronährstoffe als Energieträger (z. B. für Bewegung, Regulation der Körpertemperatur), Umbau von Makronährstoffen zu körpereigenen Baustoffen für Wachstum und Regeneration",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | System <br />\n<br />"
+            },
+            {
+              "text": "Kohlenhydrate: Einteilung in Monosaccharide (Glucose, Fructose), Disaccharide (Saccharose, Lactose) und Polysaccharide (Stärke, Glykogen), Bedeutung für die Speicherung und Freisetzung von Energie",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Fette: molekularer Bau, Bedeutung für die Speicherung und Freisetzung von Energie, Einteilung der Fette nach ihrem Anteil an gesättigten und ungesättigten Fettsäureresten, Bedeutung für eine gesunde Ernährung (z. B. essenzielle Fettsäuren)",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Proteine: Aufbau aus Aminosäuren, molekularer Bau von Aminosäuren (Aminogruppe, Carboxygruppe, verschiedene Reste), Funktion u. a. als Baustoffe",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Mikronährstoffe: Bedeutung von Vitaminen und Mineralsalzen an je einem Beispiel",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Zusammensetzung der Nahrung bei einer ausgewogenen Ernährung, essenzielle Nahrungsbestandteile",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System <br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "219604",
+        "subject": "B",
+        "year": 10,
+        "section": "3.2",
+        "text": "Verdauung",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erläutern am Beispiel der Verdauung die allgemeine Wirkungsweise von Enzymen auf der Stoff- und der Teilchenebene, indem sie das Energiekonzept und das Schlüssel-Schloss-Modell auf enzymkatalysierte Reaktionen anwenden.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Enzymausstattung des Menschen als Angepasstheit, indem sie die Beeinflussung der Enzymaktivität durch Außenfaktoren beschreiben.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erklären das Zusammenwirken der Bestandteile des Verdauungssystems beim Transport des Nahrungsbreis und beim stufenweisen enzymatischen Abbau von Kohlenhydraten, Fetten und Proteinen zu resorbierbaren Teilchen.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | System <br />\n<br />"
+            },
+            {
+              "text": "beschreiben den Aufbau der Dünndarmwand, um mithilfe des Struktur-Funktions-Konzepts die Resorption zu erläutern.",
+              "competencies": "Gegenstandsbereiche: System  | Struktur und Funktion<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Bau von Enzymen (nur reine Proteinenzyme): Enzyme als Proteine, enzymspezifischer räumlicher Bau",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Wirkung von Enzymen als Biokatalysatoren zum Stoffabbau, ‑umbau und ‑aufbau in allen lebenden Systemen: Absenken der Aktivierungsenergie; Schlüssel-Schloss-Modell (Bedeutung der räumlichen Struktur, aktives Zentrum, Enzym-Substrat-Komplex), Substrat- und Wirkungsspezifität",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Beeinflussung der Enzymaktivität (keine mathematische Herleitung): Reaktionsgeschwindigkeit als Maß für Enzymaktivität, Abhängigkeit der Reaktionsgeschwindigkeit von der Substratkonzentration, dem pH-Wert und der Temperatur (RGT-Regel), Proteindenaturierung",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Verdauungssystem: Peristaltik, Verdauungsräume (Mund, Magen, Dünndarm), Abbau von Nahrungsbestandteilen zu resorbierbaren Teilchen mithilfe von Verdauungssäften, Bedeutung der Ballaststoffe",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | System <br />\n<br />"
+            },
+            {
+              "text": "Resorption im Dünndarm: Oberflächenvergrößerung (Darmzotten, Mikrovilli, Kapillaren des Blutgefäßsystems, Lymphgefäße), passiver Transport (Diffusion) und aktiver Transport (Carrier)",
+              "competencies": "Gegenstandsbereiche: System  | Struktur und Funktion<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "219589",
+        "subject": "B",
+        "year": 10,
+        "section": "3.3",
+        "text": "Gasaustausch und Atemgastransport im Blutkreislauf",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erklären den Gasaustausch durch Diffusion mithilfe des Struktur-Funktions-Konzepts.",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Funktion des Herz-Kreislauf-Systems als Transportsystem zwischen der Umgebung und allen Zellen des menschlichen Körpers bei der Stoffaufnahme und ‑abgabe.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erklären die Bedeutung einer aktiven Gesundheitsvorsorge zur Vermeidung von Schädigungen und Erkrankungen der Lunge und des Herz-Kreislauf-Systems und erläutern medizinische Möglichkeiten ihrer Behandlung.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System  | Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Gasaustausch in der Lunge und in anderen Geweben durch Diffusion: Oberflächenvergrößerung, Konzentrationsunterschied, Diffusionsstrecke",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Sauerstoff- und Kohlenstoffdioxidtransport im Blut, Hämoglobin als Transportprotein",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Herz-Kreislauf-System: Lungen- und Körperkreislauf, Herz (Herzkammern, Herzklappen, Herzzyklus), Blutdruck",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Gesundheitsvorsorge (Bewegung, Ernährung), Schädigungen (z. B. durch Rauchen) und Erkrankungen (z. B. Arteriosklerose, Herzinfarkt); Bedeutung von Erste-Hilfe-Maßnahmen, Blutspende, Organspende",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | System  | Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "219601",
+        "subject": "B",
+        "year": 10,
+        "section": "3.4",
+        "text": "Energiebereitstellung durch Stoffwechselvorgänge",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben den Glucoseabbau als exotherme Redoxreaktion, in deren Verlauf die abgegebene Energie im Energieträger ATP gespeichert wird, und erläutern die Notwendigkeit dieses mobilen und universellen Energieträgers.",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "vergleichen die Stoff- und Energiebilanz des aeroben und anaeroben Abbaus von Glucose in menschlichen Zellen, um die Bedeutung beider Stoffwechselwege für den menschlichen Organismus zu erläutern.",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "ATP als mobiler und universeller Energieträger: Reversibilität im ATP-ADP-System",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Abbau von Glucose zu Kohlenstoffdioxid unter aeroben Bedingungen bzw. zu Milchsäure unter anaeroben Bedingungen in Muskelzellen, Vergleich der Energie-Bilanz (keine Teilschritte, keine Reduktionsäquivalente)",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Sportphysiologie: Bedeutung verschiedener energieliefernder Systeme der Zelle (ATP-Vorrat, Zellatmung, Milchsäuregärung), verbesserte Sauerstoffversorgung durch Training",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "219585",
+        "subject": "B",
+        "year": 10,
+        "section": "Lernbereich 4:",
+        "text": "Vergangenheit und Zukunft des Menschen",
+        "estimate": 7
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "skizzieren den Verlauf der Geschichte des Lebens, um zu verdeutlichen, dass der moderne Mensch eine erdgeschichtlich junge Art ist.",
+              "competencies": "Gegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "ordnen den modernen Menschen (Homo sapiens) unter Berücksichtigung anatomischer und molekularbiologischer Merkmale in das natürliche System ein.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | System  | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "leiten aus Merkmalen fossiler Funde Hypothesen zur biologischen Evolution des modernen Menschen ab, um die zeitliche Reihenfolge eines Evolutionsprozesses zu rekonstruieren, und analysieren die Bedeutung der kulturellen Evolution für den heutigen Menschen in seiner Umwelt.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Einteilung der Lebewesen in systematische Gruppen des natürlichen Systems: Reich, Stamm, Klasse; Auftreten verschiedener Lebewesengruppen und des Menschen im Verlauf der Erdgeschichte",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Einordnung des modernen Menschen in das natürliche System",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | System  | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "ausgewählte Fossilfunde, Hypothesen zur Entwicklung des modernen Menschen (Savannenhypothese, ggf. weitere)",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Gegenwart und Zukunft des Menschen: Populationsentwicklung, kulturelle Evolution",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

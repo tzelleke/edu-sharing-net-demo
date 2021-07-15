@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "49866",
+        "subject": "Ph",
+        "year": 11,
+        "section": "Lernbereich 1:",
+        "text": "Statische elektrische und magnetische Felder",
+        "estimate": 34
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "argumentieren in verschiedenen fachlichen Kontexten mit dem elektrischen und magnetischen Feldbegriff. Für quantitative Betrachtungen nutzen sie Größengleichungen für die elektrische Feldstärke sowie die magnetische Flussdichte. Unter Berücksichtigung grundlegender Eigenschaften elektrischer bzw. magnetischer Feldlinien zeichnen und interpretieren sie Feldlinienbilder.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "nutzen im Zusammenhang mit dem elektrischen Feld einer Punktladung das Coulomb‑Gesetz für quantitative Aussagen. Die Superposition der elektrischen Felder von Punktladungen veranschaulichen sie zeichnerisch unter Verwendung von Vektorpfeilen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen Analogiebetrachtungen zwischen elektrischen Feldern und Gravitationsfeldern durch (auch anhand der strukturellen Übereinstimmung von Größengleichungen). Insbesondere erläutern sie das Potential eines homogenen elektrischen Feldes, indem sie die Analogie zwischen diesem Feld und dem Gravitationsfeld nahe der Erdoberfläche nutzen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bestimmen im Rahmen eines Experiments selbständig Äquipotentiallinien eines elektrischen Feldes und interpretieren hierbei die Spannung als Potentialdifferenz. Im Versuchsprotokoll vergleichen sie ihre Ergebnisse mit den theoretisch zu erwartenden Äquipotentiallinien.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern Aufbau, Durchführung und Auswertung eines Experiments, das zur Definition der Kapazität eines Kondensators führt, und diskutieren Größenabhängigkeiten bei einem Plattenkondensator, der als Ladungs- bzw. Energiespeicher verwendet wird. In geeigneten Kontexten nutzen sie den Plattenkondensator auch als Modell.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "nehmen selbständig ein Zeit‑Stromstärke-Diagramm bei der Entladung eines Kondensators auf und untersuchen Auswirkungen bei Veränderung der Versuchsparameter. Sie entnehmen dem Diagramm die ursprünglich im Kondensator gespeicherte Ladung und diskutieren Abweichungen vom theoretisch zu erwartenden Wert. Den theoretischen Hintergrund dieser Auswertung stellen sie unter Zuhilfenahme von Fachtexten im Versuchsprotokoll dar.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern Aufbau, Durchführung und Auswertung des Fadenstrahlrohr-Experiments zur Bestimmung der spezifischen Ladung des Elektrons. Zur nichtrelativistischen Beschreibung von Bewegungen geladener Teilchen in homogenen elektrischen Längsfeldern und homogenen Magnetfeldern nutzen sie auch Kenntnisse über die Newton’sche Mechanik und über das Energiekonzept.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern den Hall‑Effekt sowie die grundlegende Funktionsweise eines einfachen Massenspektrometers. Das Zusammenwirken elektrischer und magnetischer Felder beschreiben sie hierbei quantitativ.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Grundkenntnisse zu elektrischen Feldern: Eigenschaften elektrischer Feldlinien und Feldlinienbilder, elektrische Influenz, Definition der elektrischen Feldstärke über die Kraft auf eine Probeladung",
+              "competencies": ""
+            },
+            {
+              "text": "Coulomb‑Gesetz, elektrische Feldstärke einer Punktladung, Superposition der elektrischen Felder zweier Punktladungen",
+              "competencies": ""
+            },
+            {
+              "text": "das homogene elektrische Feld: potentielle Energie einer Probeladung im Plattenkondensator, Potential, Spannung als Potentialdifferenz, Zusammenhang zwischen Spannung und elektrischer Feldstärke",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment Eigenschaften von Äquipotentiallinien und Potentialmessungen im elektrischen Feld",
+              "competencies": ""
+            },
+            {
+              "text": "nichtrelativistische Beschreibung der Bewegung geladener Teilchen in homogenen elektrischen Längsfeldern",
+              "competencies": ""
+            },
+            {
+              "text": "Plattenkondensator als Ladungs- und Energiespeicher: Kapazität, Abhängigkeit der Kapazität von geometrischen Daten des Kondensators und der Permittivitätszahl, Energieinhalt des elektrischen Feldes eines Plattenkondensators",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment Ausschaltvorgang bei einem RC‑Glied",
+              "competencies": ""
+            },
+            {
+              "text": "Grundkenntnisse zu magnetischen Feldern: Feldlinienbilder, elektrische Ströme als Ursache von magnetischen Feldern, Definition der magnetischen Flussdichte über die Kraft auf einen stromdurchflossenen Leiter, magnetische Flussdichte und Feldlinienverlauf im Innern einer langgestreckten Spule",
+              "competencies": ""
+            },
+            {
+              "text": "nichtrelativistische Beschreibung der Bewegung geladener Teilchen in homogenen Magnetfeldern: Lorentzkraft, Kreisbahnen bewegter Ladungen, Bestimmung der spezifischen Ladung des Elektrons, Hall‑Effekt und Funktionsprinzip der Hall‑Sonde",
+              "competencies": ""
+            },
+            {
+              "text": "Massenspektrometer bestehend aus Wienfilter und homogenem Magnetfeld",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49868",
+        "subject": "Ph",
+        "year": 11,
+        "section": "Lernbereich 2:",
+        "text": "Elektromagnetische Induktion und Schwingungen",
+        "estimate": 20
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "nutzen zur Erklärung von Induktionsphänomenen, insbesondere bei Experimenten, das Induktionsgesetz, das Energiekonzept sowie Eigenschaften der Lorentzkraft. Hierbei kombinieren sie für Berechnungen und Argumentationen problembezogen geeignete Größengleichungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären unter Verwendung des Energiekonzepts sowie des Induktionsgesetzes das Verhalten einer Spule beim Ein- und Ausschaltvorgang. Insbesondere bewerten sie beim Ausschaltvorgang, auch im Zusammenhang mit technischen Anwendungen, Nutzen und Risiken hoher Selbstinduktionsspannungen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "nutzen Diagramme, um bei Induktions- und Selbstinduktionsphänomenen Abhängigkeiten zwischen Größen, z. B. von Induktionsspannung und magnetischem Fluss, darzustellen und zu diskutieren. Sie verwenden hierbei das Induktionsgesetz und bringen mathematische Kenntnisse zur Ableitung einer Funktion ein.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären, z. B. bei Präsentationen, die grundlegende Funktionsweise eines Induktionskochfelds und weiterer auf Induktion beruhender technischer Anwendungen. Sie reflektieren die große Bedeutung der Induktion für unseren durch Technik geprägten Alltag.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "erklären für den Idealfall der freien ungedämpften elektromagnetischen Schwingung das Zusammenwirken von Kondensator und Spule im Schwingkreis und erläutern insbesondere die Analogie zur mechanischen Schwingung. Sie führen in diesem Kontext mithilfe des Energieerhaltungssatzes auch quantitative Betrachtungen durch und verwenden zur Beschreibung der Schwingungen Diagramme sowie mathematische Funktionen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bauen einen elektromagnetischen Schwingkreis nach Anleitung auf und nutzen ein computergestütztes Messwerterfassungssystem zur Aufnahme von Schwingungskurven. Sie untersuchen Auswirkungen bei Veränderung der Versuchsparameter und vergleichen im Versuchsprotokoll theoretische Vorhersagen über die Schwingungsdauer mit experimentellen Ergebnissen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Induktion: magnetischer Fluss und Induktionsgesetz, Erzeugung sinusförmiger Wechselspannung",
+              "competencies": ""
+            },
+            {
+              "text": "Selbstinduktion: Ein- und Ausschaltvorgang bei der Spule, Induktivität, Energieinhalt des magnetischen Feldes einer Spule",
+              "competencies": ""
+            },
+            {
+              "text": "das Induktionskochfeld und weitere Beispiele technischer Anwendungen der Induktion",
+              "competencies": ""
+            },
+            {
+              "text": "elektromagnetische Schwingungen: periodischer Energieaustausch zwischen Spule und Kondensator beim Schwingkreis, Analogie zwischen mechanischer und elektromagnetischer Schwingung, Thomsongleichung",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment Untersuchung elektromagnetischer Schwingungen mithilfe eines computergestützten Messwerterfassungssystems",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49871",
+        "subject": "Ph",
+        "year": 11,
+        "section": "Lernbereich 3:",
+        "text": "Elektromagnetische Wellen",
+        "estimate": 30
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erstellen und interpretieren, ausgehend von ihren Kenntnissen zu statischen Feldern, Feldlinienbilder für den Nahbereich eines Dipols in der Grundschwingung. Sie beurteilen mithilfe der grundlegenden Struktur einer elektromagnetischen Welle Empfangsmöglichkeiten mit Dipolen und Spulen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern die experimentelle Bestimmung der Wellenlänge einer Dipolstrahlung mithilfe der Erzeugung einer stehenden Welle. Sie erklären konstruktive und destruktive Interferenz mithilfe des Superpositionsprinzips und führen quantitative Betrachtungen zu Interferenzexperimenten mit Dipolstrahlung und Licht durch.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bestimmen selbständig mithilfe eines Gitters die Wellenlängen verschiedenfarbiger LEDs. Sie kombinieren Größengleichungen im Rahmen der Auswertung des Experiments, fertigen eine geeignete Skizze an, um alle in ihren Rechnungen verwendeten Größen zu veranschaulichen, und diskutieren Möglichkeiten der Fehlerminimierung.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "identifizieren Licht als sichtbaren Teil des elektromagnetischen Spektrums, indem sie übereinstimmende experimentelle Befunde für Licht und Dipolstrahlung im Überblick darstellen. Sie beschreiben ebenfalls im Überblick das gesamte elektromagnetische Spektrum und reflektieren anhand einzelner Spektralbereiche die Relevanz elektromagnetischer Wellen in Technik und Natur.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern mithilfe von selbst erstellten Diagrammen ein Verfahren der Modulation elektromagnetischer Trägerwellen zur Informationsübertragung. Sie reflektieren Auswirkungen der Nachrichtentechnik (z. B. Mobilfunk, Übertragung mit Licht) auf die Gesellschaft. Hierzu wählen sie aus verschiedenen, auch selbständig recherchierten Quellen Informationen aus, die sie ordnen und bewerten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "stellen bei der Interpretation des Photoeffekts die Vorzüge des Photonenmodells gegenüber dem Wellenmodell von Licht heraus, deuten die Einsteingleichung mit dem Energiekonzept und nutzen diese für quantitative Betrachtungen. Sie erläutern eine auf dem Photoeffekt beruhende experimentelle Methode zur Bestimmung der Planck‑Konstanten in Aufbau, Durchführung und Auswertung.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären die Entstehung von Röntgenstrahlung in einer Röntgenröhre sowie die Charakteristika des Röntgenspektrums mithilfe des Photonen- und des Wellenmodells elektromagnetischer Strahlung. Sie erläutern die Bragg-Reflexion am Einkristall und darauf aufbauend die Bestimmung der Wellenlänge von Röntgenstrahlung.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Erzeugung und Ausbreitung elektromagnetischer Wechselfelder: elektrisches und magnetisches Feld im Nahbereich eines Dipols in der Grundschwingung, Ausbreitung elektromagnetischer Wechselfelder",
+              "competencies": ""
+            },
+            {
+              "text": "experimentelle Untersuchung von Dipolstrahlung: Wellenlängenbestimmung mittels einer durch Reflexion erzeugten stehenden Welle, Superpositionsprinzip, Beugung und Interferenz von Dipolstrahlung am Doppelspalt",
+              "competencies": ""
+            },
+            {
+              "text": "Licht als elektromagnetische Welle: Beugung und Interferenz von Licht am Doppelspalt, Wellenlängenbestimmung von monochromatischem Licht und Untersuchung von weißem Licht mithilfe eines Gitters, Polarisation als weitere Gemeinsamkeit von Dipolstrahlung und Licht",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment Bestimmung der Wellenlängen verschiedenfarbiger LEDs mithilfe eines Gitters",
+              "competencies": ""
+            },
+            {
+              "text": "Prinzip der Informationsübertragung durch elektromagnetische Wellen am Beispiel der Amplitudenmodulation",
+              "competencies": ""
+            },
+            {
+              "text": "Photoeffekt: Deutung des Photoeffekts nach Einstein, experimentelle Bestimmung der Planck-Konstanten",
+              "competencies": ""
+            },
+            {
+              "text": "Röntgenstrahlung und elektromagnetisches Spektrum: Aufbau der Röntgenröhre und Entstehung von Röntgenstrahlung, Wellenlängenbestimmung mithilfe von Bragg-Reflexion, kontinuierliches und diskretes Röntgenspektrum, Überblick über das gesamte elektromagnetische Spektrum",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

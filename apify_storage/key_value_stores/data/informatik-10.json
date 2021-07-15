@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "218967",
+        "subject": "Inf",
+        "year": 10,
+        "section": "Lernbereich 1:",
+        "text": "Datenmodellierung und relationale Datenbanksysteme",
+        "estimate": 17
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "analysieren und strukturieren mithilfe objektorientierter Konzepte Datenbestände geeigneter Beispiele aus der Praxis (z. B. Bibliotheksverwaltung) und stellen das daraus entwickelte Datenmodell als Klassendiagramm mit mehreren Klassen dar.",
+              "competencies": "Prozessbezogene Kompetenzen: strukturieren | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "überführen objektorientierte Datenmodelle in entsprechende relationale Modelle und setzen diese in einem Datenbanksystem um.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "konzipieren geeignete SQL-Abfragen, um zielgerichtet Informationen aus einer relationalen Datenbank zu gewinnen.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "erkennen Redundanzen und Anomalien in einer relationalen Datenbank und beurteilen die dadurch entstehende Problematik im Hinblick auf die Konsistenz des Datenbestands.",
+              "competencies": "Prozessbezogene Kompetenzen: darstellen und interpretieren | begründen und bewerten<br />\n<br />"
+            },
+            {
+              "text": "bewerten Chancen und Risiken der automatisierten Analyse verknüpfter Datenbestände, auch im Hinblick auf gesellschaftliche Auswirkungen.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | kooperieren und kommunizieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "objektorientiertes Datenmodell: Objekt, Klasse, Attribut, Beziehung, Kardinalität",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "relationales Modell: Tabellenschema, Datenbankschema, Primär- und Fremdschlüssel, Datentyp",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "relationales Datenbanksystem",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme<br />\n<br />"
+            },
+            {
+              "text": "Redundanz und Konsistenz von Datenbeständen, Anomalien",
+              "competencies": "Gegenstandsbereiche: Modelle<br />\n<br />"
+            },
+            {
+              "text": "Abfragesprache am Beispiel von SQL: Verknüpfung von Bedingungen; Abfrage über verknüpfte Tabellen",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Datenbankschema, Primär- und  Fremdschlüssel, Kardinalität, Redundanz, Konsistenz, Anomalie",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218974",
+        "subject": "Inf",
+        "year": 10,
+        "section": "Lernbereich 2:",
+        "text": "Objektorientierte Modellierung und Programmierung",
+        "estimate": 27
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "wenden eine eindimensional indizierte Datenstruktur bei einfachen Problemstellungen zur Speicherung und Verwaltung gleichartiger Daten an.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "analysieren und modellieren Objektbeziehungen und das Kommunikationsverhalten innerhalb eines Systems (beispielsweise eines Fahrradverleihs).",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren die im Klassendiagramm festgelegten Beziehungen sachgerecht durch Referenzen, um während der Laufzeit des Programms die Kommunikation zwischen den entsprechenden Objekten durch den Aufruf geeigneter Methoden zu ermöglichen. Dabei wird ihnen die Grundidee der Datenkapselung bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren<br />\n<br />"
+            },
+            {
+              "text": "modellieren und implementieren im Rahmen eines einfachen Beispiels aus der Praxis (etwa der Mitgliederverwaltung eines Vereins) eine Struktur zur Verwaltung gleichartiger Objekte. Hierbei entwickeln sie ausgewählte Methoden, z. B. zum Einfügen, Entfernen und Bearbeiten von Elementen.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "nutzen in Generalisierungshierarchien das Konzept des Polymorphismus zur Implementierung verschiedener Verhaltensweisen, z. B. die spartenabhängige Berechnung der Mitgliedsbeiträge eines Sportvereins.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "eindimensional indizierte Datenstruktur (Array/Feld): Index, Element, Länge",
+              "competencies": "Gegenstandsbereiche: Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Interpretation von Klassen als Datentypen",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Umsetzung von Klassenbeziehungen unterschiedlicher Kardinalitäten mithilfe von Referenzen",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Kommunikation zwischen Objekten durch Methodenaufrufe, Datenkapselung durch kontrollierten Zugriff auf die Attribute",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Polymorphismus und Überschreiben von Methoden",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Referenz, Kardinalität, Array/Feld, Index, Datenkapselung, Polymorphismus",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218969",
+        "subject": "Inf",
+        "year": 10,
+        "section": "Lernbereich 3:",
+        "text": "Projekt",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erstellen im Team einen Projektplan, um eine Datenbank bzw. ein objektorientiertes Programm zu einem Szenario aus ihrer Erfahrungswelt, wie z. B. einem Buchungssystem (ggf. mit Benutzerschnittstelle) oder einem einfachen Spiel, zu entwickeln.",
+              "competencies": "Prozessbezogene Kompetenzen: kooperieren und kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "analysieren das gegebene Szenario und modellieren relevante Ausschnitte durch ein Klassendiagramm und ggf. weitere Diagramme. Dabei arbeiten sie ggf. mit bereits existierenden Modellen bzw. Modellausschnitten.",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren zum gegebenen Szenario arbeitsteilig und auf Grundlage der vorhandenen Modellierung die Datenbank einschließlich geeigneter Abfragen bzw. das objektorientierte Programm.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren<br />\n<br />"
+            },
+            {
+              "text": "testen die entwickelte Datenbank bzw. das entwickelte Programm hinsichtlich der Anforderungen des gegebenen Szenarios.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "dokumentieren ihre Projektarbeit geeignet.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | kooperieren und kommunizieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Datenbank- bzw. Softwareentwicklungsprojekt: Planung, Modellierung, Implementierung, Test, Dokumentation",
+              "competencies": "Gegenstandsbereiche: Softwareprojekte<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

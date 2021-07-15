@@ -1,0 +1,398 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "218700",
+        "subject": "Ph",
+        "year": 10,
+        "section": "Lernbereich 1:",
+        "text": "Elektromagnetismus",
+        "estimate": 20
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben exemplarisch am magnetischen Feld die grundlegenden Eigenschaften eines Feldes. Sie visualisieren mithilfe von Feldlinien die magnetischen Felder von Permanentmagneten, einer stromdurchflossenen Spule und der Erde. Dazu nutzen sie auch geeignete Software. Sie wenden die Rechte‑Faust-Regel und die Drei‑Finger-Regel zur Bestimmung von Strom-, Magnetfeld- und Kraftrichtung an.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären die Funktionsweise eines selbständig gebauten einfachen Elektromotors und untersuchen Möglichkeiten, seinen Lauf zu variieren.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "planen selbständig verschiedene Experimente zur Erzeugung von Induktionsspannungen. Sie führen diese selbständig durch, erstellen ein strukturiertes Versuchsprotokoll und formulieren als Ergebnis Je-desto-Aussagen über die Abhängigkeit der Induktionsspannung von verschiedenen Größen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "wenden geeignete Regeln und Konzepte an, um grundlegende Induktionsphänomene und beim Generator experimentelle Beobachtungen zu erklären. Hierbei entwickeln sie fachsprachlich korrekte Argumentationsketten und verfassen kurze erläuternde Texte.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "erklären Aufbau und Funktionsprinzip eines Transformators auf der Grundlage ihrer Kenntnisse zur Induktion. Sie führen Berechnungen zum idealen Transformator durch und begründen mithilfe des Energiekonzepts die gegenläufige Übersetzung von Spannung und Stromstärke.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "reflektieren die Auswirkungen technischer Anwendungen des Elektromagnetismus wie Elektromotor, Generator und Transformator auf die gesellschaftliche Entwicklung am Ende des 19. Jahrhunderts. Sie diskutieren an diesem Beispiel die Wechselwirkung von technologischem Fortschritt und sozialem Wandel und ziehen Parallelen zur Gegenwart.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Einblick in den allgemeinen Feldbegriff",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "magnetisches Feld: Feldlinienbilder von Permanentmagneten und stromdurchflossener Spule, Hinweis auf Ursache des Erdmagnetfeldes",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Kraft auf einen stromdurchflossenen Leiter im Magnetfeld, Lorentzkraft",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Schülerexperiment: Bau eines einfachen Elektromotors und Erklärung seiner Funktionsweise",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Erzeugung von Induktionsspannungen, Schülerexperiment: Untersuchung der Abhängigkeit der Induktionsspannung von verschiedenen Größen",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "grundlegende Induktionsphänomene, Generator",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Transformator: Aufbau und Funktionsprinzip, Spannungs- und Stromstärkeübersetzung beim idealen Transformator",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218669",
+        "subject": "Ph",
+        "year": 10,
+        "section": "Lernbereich 2:",
+        "text": "Impulserhaltung in der Mechanik",
+        "estimate": 6
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "schließen aus der Betrachtung zweidimensionaler Bewegungen auf die Erhaltung des Impulses und grenzen ihn gegen den Energieerhaltungssatz ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen quantitative Betrachtungen einfacher Stoßvorgänge mithilfe des Impulserhaltungssatzes durch, greifen dabei auch auf den Energieerhaltungssatz zurück und erkennen allgemein in Erhaltungssätzen ein grundlegendes Konzept der Physik.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "stellen einen Zusammenhang zwischen der Impulserhaltung und dem Wechselwirkungsgesetz her. Sie erklären in alltagsrelevanten Kontexten, dass Kräfte gemäß dem Wechselwirkungsgesetz stets paarweise auftreten, und unterscheiden ein solches Kräftepaar deutlich von einem Kräftepaar im Gleichgewicht.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Impuls als Erhaltungsgröße im zweidimensionalen Fall",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Anwendung von Impuls- und Energieerhaltungssatz im eindimensionalen Fall",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Wechselwirkungsgesetz",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218698",
+        "subject": "Ph",
+        "year": 10,
+        "section": "Lernbereich 3:",
+        "text": "Bewegungen und ihre Modellierung in der Physik",
+        "estimate": 16
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erstellen und interpretieren Zeit-Ort- und Zeit-Geschwindigkeit-Diagramme von Bewegungen in alltagsrelevanten Kontexten und stellen Beziehungen zwischen den Diagrammen und linearen bzw. quadratischen Bewegungsfunktionen her. Dabei nutzen sie geeignete digitale Hilfsmittel, mit denen sie die Daten erfassen, verarbeiten und sachgerecht darstellen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "stellen Hypothesen über Größenabhängigkeiten beim waagrechten Wurf auf und planen auf dieser Grundlage passende Experimente. Sie führen diese selbständig durch und schließen auf die komponentenweise Beschreibung des waagrechten Wurfs.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "analysieren die Geschwindigkeitsänderungen beim waagrechten Wurf mithilfe einer geeigneten Darstellung und nutzen die Koordinatenschreibweise für zweidimensionale Bewegungen. Sie vergleichen experimentell festgestellte Werte mit den berechneten, reflektieren über etwaige Unterschiede und begründen diese.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "wenden zur quantitativen Beschreibung von Bewegungen aus ihrer Erfahrungswelt selbständig ausgewählte Darstellungsformen und zentrale physikalische Konzepte an, wie z. B. die Bewegungsfunktionen der Newton’schen Mechanik oder die Erhaltungssätze.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "bewerten auf der Grundlage abgeschätzter und berechneter Werte auch kritische Situationen im Straßenverkehr, diskutieren hierfür mögliche Sicherheitsvorkehrungen und reflektieren ihr eigenes Verhalten auch im Hinblick auf mögliche technische Hilfen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Darstellung von Bewegungen in Zeit-Ort- und Zeit-Geschwindigkeit-Diagrammen",
+              "competencies": ""
+            },
+            {
+              "text": "Kinematik eindimensionaler Bewegungen: Bewegungsfunktionen bei konstanter Geschwindigkeit und konstanter Beschleunigung, freier Fall",
+              "competencies": ""
+            },
+            {
+              "text": "Schülerexperiment: Untersuchung und komponentenweise Beschreibung des waagrechten Wurfs",
+              "competencies": ""
+            },
+            {
+              "text": "Beschreibung des waagrechten Wurfs in der Koordinatenschreibweise",
+              "competencies": ""
+            },
+            {
+              "text": "quantitative Beschreibung mechanischer Vorgänge mithilfe zentraler physikalischer Konzepte wie den Bewegungsfunktionen der Newton’schen Mechanik oder den Erhaltungssätzen",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218713",
+        "subject": "Ph",
+        "year": 10,
+        "section": "Lernbereich 4:",
+        "text": "Kernphysik",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "recherchieren selbständig in unterschiedlichen Quellen zu Themen der Kernphysik (z. B. Entdeckung und Nachweis der Radioaktivität, Eigenschaften der Strahlungsarten, Quarks) und ordnen die gesichteten Quellen in Bezug auf die vorgegebene Aufgabenstellung nach dem Grad ihrer Verwendbarkeit.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "stellen Zerfallsgleichungen zu α- und β-‑Zerfällen auf, deuten die γ‑Strahlung als eine vom Kern abgegebene Strahlung aus energiereichen Photonen und führen die Umwandlungen der Kerne auf den Aufbau der Nukleonen aus Quarks zurück.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären mithilfe der Äquivalenz von Masse und Energie die Energiefreisetzung exemplarisch beim α‑Zerfall sowie bei einer einfachen Kernreaktion und erläutern die prinzipielle Funktionsweise eines Kernreaktors.",
+              "competencies": ""
+            },
+            {
+              "text": "bestimmen graphisch aus Zerfallskurven oder mittels Berechnungen die Halbwertszeit radioaktiver Isotope und nutzen sie zur Identifizierung von Isotopen sowie zur Beantwortung anwendungsbezogener Fragestellungen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "kategorisieren Argumente in wertenden Kommentaren zu kernphysikalischen Themen in unterschiedlichen Medien (z. B. Zeitungen, Foren, Werbeflyer, Filmen) oder in Diskussionen und prüfen sie auf ihre fachliche Korrektheit. Sie reflektieren über die Interessenlage der Urheber und verfassen eine Stellungnahme.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "formulieren auf der Grundlage ihrer Kenntnisse eine eigene Bewertung zu einem Thema aus dem Bereich Radioaktivität (z. B. medizinische Anwendung und biologische Strahlenwirkung) und beziehen außerfachliche Aspekte mit ein.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Entdeckung der Radioaktivität",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "grundlegende Eigenschaften und Entstehung von α-, β-- und γ‑Strahlung",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Aufbau des Atomkerns aus Protonen und Neutronen, Aufbau der Nukleonen aus Quarks",
+              "competencies": "Gegenstandsbereiche: Materie<br />\n<br />"
+            },
+            {
+              "text": "Äquivalenz von Masse und Energie, Berechnung der frei werdenden Energie beim α‑Zerfall und bei einem einfachen Kernprozess",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "Halbwertszeit",
+              "competencies": ""
+            },
+            {
+              "text": "biologische Strahlenwirkung, Strahlenschutzmaßnahmen",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "218685",
+        "subject": "Ph",
+        "year": 10,
+        "section": "Lernbereich 5:",
+        "text": "Profilbereich am NTG",
+        "estimate": 28
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "218702",
+        "subject": "Ph",
+        "year": 10,
+        "section": "5.1",
+        "text": "Halbleiterbauelemente in Experimenten",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "untersuchen selbständig experimentell grundlegende Eigenschaften von Diode und Transistor; insbesondere interpretieren sie die aufgenommene Kennlinie einer Diode. Für eine vorgegebene Anwendung bauen sie eine einfache elektrische Schaltung aus Halbleiterbauelementen und untersuchen diese selbständig.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "nutzen einfache Modelle, um grundlegende Eigenschaften von Halbleitern, Diode und Transistor zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Schülerexperimente: Aufnehmen der Kennlinie einer Diode, Transistor als Schalter und Verstärker, Bau und Untersuchung einer einfachen Schaltung",
+              "competencies": ""
+            },
+            {
+              "text": "einfache Modelle zu Halbleiter, Diode und Transistor",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "218722",
+        "subject": "Ph",
+        "year": 10,
+        "section": "5.2",
+        "text": "Vertiefung prozessbezogener Kompetenzen anhand ausgewählter weiterer Inhalte",
+        "estimate": 18
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "entwickeln physikalische Fragestellungen anknüpfend an ihnen bekannte Alltagssituationen. Um diese zu beantworten, verwenden sie experimentelle Methoden oder andere fachtypische Arbeitsweisen (z. B. Computermodellierung, Mathematisierung); ggf. setzen sie hierbei den Computer als Hilfsmittel zur Erfassung und Verarbeitung von Messwerten ein. Sie vergleichen experimentelle Ergebnisse mit theoretischen Vorhersagen, erklären Abweichungen und reflektieren Möglichkeiten, die experimentelle Untersuchung zu optimieren.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "dokumentieren selbständig experimentelle Untersuchungen sowie durch andere fachtypische Arbeitsweisen (z. B. Computermodellierung, Mathematisierung, Quellenarbeit oder Diskussion) gewonnene Ergebnisse. Hierbei legen sie Art und Struktur der Dokumentation nach fachlichen Gesichtspunkten selbständig fest; insbesondere wählen sie die Darstellungsformen sach- und adressatengerecht aus.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "präsentieren Arbeitsergebnisse sach- und adressatengerecht in mündlichen Beiträgen, Referaten oder anhand von Dokumentationen, tauschen sich in Diskussionen über Arbeitsergebnisse aus und reflektieren hierbei den eigenen Erkenntnisweg. Sie verwenden fachsprachlich korrekte Formulierungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "reflektieren Möglichkeiten und Grenzen der physikalischen Erkenntnisgewinnung (z. B. experimentelle Methoden, Mathematisierung, Computermodellierung), Auswirkungen physikalischer Erkenntnisse in historischen und gesellschaftlichen Zusammenhängen sowie Deutungen physikalischer Theorien. Hierbei beziehen sie bereits erworbene Fachkenntnisse sowie selbständig gewonnene Arbeitsergebnisse ein.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Mikroprozessoren",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Physik im Sport: optimaler Wurf, Stöße beim Billard, Magnus-Effekt bei Ballsportarten",
+              "competencies": ""
+            },
+            {
+              "text": "Physik des Fliegens: Auftrieb, Strömungsverhalten; Bau eines Flugobjekts",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Kausalität und Chaos: Iteration und Rückkopplung, Bifurkationsszenario, Selbstorganisation, nichtlineare Dynamik und Strukturbildung, Fraktale",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Anwendungen der Radioaktivität: medizinische Diagnose und Therapie mit radioaktiven Isotopen, Herstellung radioaktiver Substanzen, Datierungsmethoden",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Kernkraftwerkstechnik: Typen von Kernkraftwerken, technische Auslegung, Sicherheitskonzepte, Endlagerung, Fusion und Fusionsreaktor",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Anwendungen der Elektrotechnik: Aufbau und Anwendungen verschiedener Elektromotoren, Generatoren und Transformatoren",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Magnete in der Fahrzeugtechnik: Wirbelstrombremsen, Magnetschwebebahn, magnetische Sensoren, magnetische Schalter",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Anwendungen der Nanotechnologie: Oberflächenbeschichtungen, Kohlenstoff-Nanotubes, Nanopartikel in medizinischen Anwendungen, künstliche Atome aus Halbleitermaterialien, photonische Kristalle",
+              "competencies": "Gegenstandsbereiche: Materie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

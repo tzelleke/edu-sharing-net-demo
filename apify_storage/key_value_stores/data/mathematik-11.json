@@ -1,0 +1,347 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "50120",
+        "subject": "M",
+        "year": 11,
+        "section": "1",
+        "text": "Grundlagen der Differentialrechnung",
+        "estimate": null
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50123",
+        "subject": "M",
+        "year": 11,
+        "section": "1.1",
+        "text": "Lokales Differenzieren",
+        "estimate": 9
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "berechnen Werte von Differenzenquotienten und deuten diese geometrisch als Sekantensteigungen. Außerdem interpretieren sie den Differenzenquotienten als mittlere Änderungsrate und nutzen diese Interpretation auch im Sachkontext (z. B. durchschnittliche Steigung eines Wegs, Durchschnittsgeschwindigkeit).",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "deuten den Wert eines Differentialquotienten geometrisch als Tangentensteigung, interpretieren ihn als lokale Änderungsrate und nutzen diese Interpretation auch im Sachkontext (z. B. lokale Steigung eines Wegs, Momentangeschwindigkeit) und argumentieren damit.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "berechnen für elementare rationale Funktionen Werte von Differentialquotienten.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "erläutern an Graphen von Funktionen die Bedeutung des Begriffs der lokalen Differenzierbarkeit; dabei skizzieren sie insbesondere Graphen von Funktionen (u. a. der Betragsfunktion), die nicht differenzierbar sind.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50140",
+        "subject": "M",
+        "year": 11,
+        "section": "1.2",
+        "text": "Globales Differenzieren",
+        "estimate": 6
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erläutern die Definition der Ableitungsfunktion, schließen aus dem Graphen einer Funktion auf den Graphen der zugehörigen Ableitungsfunktion und erklären ihre Vorgehensweise.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "leiten ganzrationale Funktionen ab und nutzen dabei auch die Faktor- und die Summenregel.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "nutzen die Ableitungsfunktion, um die Gleichung einer Tangente in einem Graphenpunkt aufzustellen.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50141",
+        "subject": "M",
+        "year": 11,
+        "section": "1.3",
+        "text": "Grundlagen für die Untersuchung von Funktionen – Ganzrationale Funktionen",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verstehen, wie man aus der ersten Ableitung einer Funktion Rückschlüsse auf deren Monotonieverhalten sowie auf deren Extremstellen ziehen kann, und wenden dies auf ganzrationale Funktionen an.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "interpretieren das Krümmungsverhalten des Funktionsgraphen als Monotonieverhalten der ersten Ableitung einer Funktion; sie erläutern, dass an einer Wendestelle die Steigung des Funktionsgraphen bzw. die lokale Änderungsrate der Funktion extremal ist und interpretieren dies im Sachkontext (z. B. Zeitpunkt größten Wachstums). Sie untersuchen das Krümmungsverhalten ganzrationaler Funktionen mithilfe der zweiten Ableitung und ermitteln rechnerisch Wendestellen dieser Funktionen.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "unterscheiden bei Extremstellen bzw. Wendestellen zwischen notwendigen und hinreichenden Bedingungen. Sie begründen beispielsweise, dass die Bedingung f '(x0) = 0 notwendig, aber nicht hinreichend für die Existenz einer Extremstelle einer differenzierbaren Funktion f an der Stelle x0 ist.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "analysieren ganzrationale Funktionen, auch mit Parametern, hinsichtlich ihrer Eigenschaften durch flexible und reflektierte Nutzung der Methoden der Differentialrechnung, auch unter Verwendung einer dynamischen Mathematiksoftware.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "schließen aus dem Graphen einer Funktion auf den Graphen einer zugehörigen Stammfunktion sowie bei ganzrationalen Funktionen auch aus dem Funktionsterm auf die Terme zugehöriger Stammfunktionen und begründen ihre jeweilige Vorgehensweise.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50142",
+        "subject": "M",
+        "year": 11,
+        "section": "2",
+        "text": "Zufallsgrößen und Binomialverteilung",
+        "estimate": 20
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verstehen, dass die Wahrscheinlichkeit eines Ereignisses nicht als Grenzwert der relativen Häufigkeit im Sinne der im Zusammenhang mit Funktionen erworbenen Begriffsvorstellung aufgefasst werden kann, sondern als „Stabilisierung“ der relativen Häufigkeit, kennen die axiomatische Definition von Wahrscheinlichkeit und sind sich des damit verbundenen langwierigen mathematikhistorischen Prozesses bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Begriffe Zufallsgröße und Wahrscheinlichkeitsverteilung und bestimmen Erwartungswerte und Standardabweichungen. Sie veranschaulichen die Wahrscheinlichkeitsverteilungen von Zufallsgrößen, z. B. durch Säulendiagramme oder Histogramme mit Rechtecksbreite 1.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "führen Sachsituationen durch Analogiebildung auf die Urnenmodelle „Ziehen mit Zurücklegen“ bzw. „Ziehen ohne Zurücklegen“ zurück, um die Anzahl möglicher Ergebnisse auch unter Zuhilfenahme von Binomialkoeffizienten zu bestimmen. In einfachen Fällen berechnen sie damit verbundene Wahrscheinlichkeiten.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | modellieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "modellieren Sachzusammenhänge mit Bernoulli-Ketten und verwenden die Binomialverteilung bei der Berechnung von Wahrscheinlichkeiten.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "berechnen mithilfe der Parameter der Binomialverteilung den Erwartungswert und die Standardabweichung von binomialverteilten Zufallsgrößen, wenden die Sigma-Regeln an und erläutern – auch unter Nutzung einer dynamischen Mathematiksoftware – den Einfluss der Parameter auf die graphische Darstellung der Binomialverteilung.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50143",
+        "subject": "M",
+        "year": 11,
+        "section": "3",
+        "text": "Untersuchung von Funktionen – Ableitungsregeln",
+        "estimate": null
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50144",
+        "subject": "M",
+        "year": 11,
+        "section": "3.1",
+        "text": "Sinus- und Kosinusfunktion – Produkt- und Kettenregel",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "machen die Ableitungsfunktion der Sinusfunktion und die der Kosinusfunktion anhand graphischer Überlegungen, ggf. unter Nutzung einer dynamischen Mathematiksoftware, plausibel.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "leiten Sinus- und Kosinusfunktion sowie einfache Verknüpfungen und Verkettungen dieser Funktionen mit ganzrationalen Funktionen ab; hierfür nutzen sie auf der Grundlage eines gefestigten Verständnisses von Termstrukturen die Produkt- und die Kettenregel.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "untersuchen Sinus- und Kosinusfunktionen sowie einfache Verknüpfungen solcher Funktionen insbesondere mit linearen Funktionen (z. B. x ↦ x + sin x) nun auch mit den Methoden der Differentialrechnung.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50145",
+        "subject": "M",
+        "year": 11,
+        "section": "3.2",
+        "text": "Gebrochen-rationale Funktionen – Quotientenregel",
+        "estimate": 7
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "leiten einfache gebrochen-rationale Funktionen (d. h. Funktionen, bei denen sowohl Zähler- als auch Nennerpolynom höchstens den Grad 2 aufweisen und deren Funktionsterm in vollständig gekürzter Form vorliegt) ab; hierfür nutzen sie insbesondere die Quotientenregel.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "wenden bei der Untersuchung einfacher gebrochen-rationaler Funktionen nun auch die Methoden der Differentialrechnung reflektiert an.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50136",
+        "subject": "M",
+        "year": 11,
+        "section": "4",
+        "text": "Untersuchung von Funktionen – Umkehrfunktion",
+        "estimate": null
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50137",
+        "subject": "M",
+        "year": 11,
+        "section": "4.1",
+        "text": "Wurzelfunktion",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "schließen mithilfe der strengen Monotonie auf die Umkehrbarkeit einer Funktion und erläutern insbesondere bei Quadrat- und Wurzelfunktion, wie die Graphen von Funktion und zugehöriger Umkehrfunktion auseinander hervorgehen. In einfachen Fällen bestimmen sie rechnerisch den Term der Umkehrfunktion.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "leiten Potenzfunktionen mit rationalen Exponenten sowie Verknüpfungen und Verkettungen dieser Potenzfunktionen mit Funktionen bisher bekannter Funktionstypen ab; hierfür nutzen sie flexibel die Produkt-, die Quotienten- und die Kettenregel.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "untersuchen einfache Verknüpfungen und Verkettungen der Wurzelfunktion mit Funktionen bisher bekannter Funktionstypen auch mit den Methoden der Differentialrechnung.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "50138",
+        "subject": "M",
+        "year": 11,
+        "section": "4.2",
+        "text": "Natürliche Exponential- und Logarithmusfunktion",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verstehen die natürliche Exponentialfunktion als Funktion, bei der Funktionsterm und Term der Ableitungsfunktion übereinstimmen, und leiten damit auch Verknüpfungen und Verkettungen der Exponentialfunktion mit Funktionen bisher bekannter Funktionstypen ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen<br />\n<br />"
+            },
+            {
+              "text": "untersuchen gezielt auch mit den Methoden der Differentialrechnung Verkettungen sowie Verknüpfungen der natürlichen Exponentialfunktion mit Funktionen bisher bekannter Funktionstypen. Durch einen Vergleich des Wachstums von Exponential- und Potenzfunktion machen sie insbesondere die Grenzwerte  und  plausibel.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "verstehen die natürliche Logarithmusfunktion als Umkehrfunktion der natürlichen Exponentialfunktion und leiten unter Nutzung dieses Zusammenhangs den Funktionsterm für die Ableitungsfunktion der natürlichen Logarithmusfunktion her.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "untersuchen in einfachen Fällen Verkettungen sowie Verknüpfungen der natürlichen Logarithmusfunktion mit Funktionen bisher bekannter Funktionstypen auch mit den Methoden der Differentialrechnung und nutzen dabei auch die Rechenregeln für Logarithmen reflektiert. Durch einen Vergleich des Wachstums von Logarithmus- und Potenzfunktion machen sie insbesondere die Grenzwerte  und  plausibel.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50139",
+        "subject": "M",
+        "year": 11,
+        "section": "5",
+        "text": "Grundlagen der Koordinatengeometrie im Raum",
+        "estimate": 22
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "stellen im dreidimensionalen kartesischen Koordinatensystem Punkte, Figuren sowie Körper dar. Sie beschreiben u. a. den Zusammenhang der Koordinaten von Punkten, die bzgl. der Koordinatenebenen, der Koordinatenachsen bzw. des Koordinatenursprungs symmetrisch liegen.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "addieren und subtrahieren Vektoren im Anschauungsraum und multiplizieren diese mit einem Skalar. Unter Verwendung der Koordinatenschreibweise von Vektoren sowie von Rechengesetzen für Vektoren führen sie die genannten Operationen auch rechnerisch durch.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "nutzen das Skalarprodukt von Vektoren für Längen- und Winkelgrößenbestimmungen sowie für Argumentationen, stellen Gleichungen von Kugeln in Koordinatenform auf und interpretieren diese.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "bestimmen das Vektorprodukt zweier Vektoren, um damit vorteilhaft orthogonale Vektoren anzugeben sowie Flächeninhalte von Parallelogrammen und Dreiecken und in Verbindung mit dem Skalarprodukt Volumina geeigneter Körper zu berechnen.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "stellen auch anspruchsvolle räumliche Betrachtungen an und nutzen bei Berechnungen an geometrischen Körpern und Figuren – auch in Sachzusammenhängen – flexibel sowohl die grundlegenden Konzepte und Strategien aus der Mittelstufe als auch die Vektorrechnung und reflektieren Vor- und Nachteile der unterschiedlichen Lösungswege.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

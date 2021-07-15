@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "48714",
+        "subject": "Inf",
+        "year": 12,
+        "section": "Lernbereich 1:",
+        "text": "Formale Sprachen und Endliche Automaten",
+        "estimate": 16
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "entwickeln formale Sprachen zu Beispielen aus dem Alltag (z. B. Autokennzeichen, E-Mail-Adressen oder Gleitkommazahlen), um ein Verständnis für die Notwendigkeit von klaren Regeln bei der Definition dieser Sprachen zu gewinnen und damit Mehrdeutigkeiten, wie sie in natürlichen Sprachen vorkommen, zu vermeiden.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "definieren formale Sprachen durch Grammatiken und verwenden zur Darstellung der Produktionsregeln insbesondere die Erweiterte Backus-Naur-Form (EBNF) und Syntaxdiagramme.",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "entwerfen zur formalen Beschreibung von regulären Sprachen endliche erkennende Automaten.",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren mithilfe einer objektorientierten Programmiersprache fachgerecht deterministische endliche Automaten und nutzen diese zur automatisierten Überprüfung der Zugehörigkeit von Wörtern zu einer regulären Sprache.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "erläutern an selbst gewählten Beispielen, dass es Sprachen gibt, die nicht regulär sind, und erkennen daran, dass es weitere Sprachkategorien in der Informatik gibt. Damit wird den Schülerinnen und Schülern bewusst, dass für die automatisierte Verarbeitung von nicht regulären Sprachen, wie z. B. höheren Programmiersprachen, das Modell des endlichen Automaten nicht ausreicht und weitere Modellkonzepte notwendig sind.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | kooperieren und kommunizieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Formale Sprache als Menge von Zeichenketten über einem Alphabet: Zeichen, Zeichenvorrat (Alphabet), Wort (Zeichenkette), Syntax, Semantik",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle<br />\n<br />"
+            },
+            {
+              "text": "Grammatik: Terminal, Nichtterminal, Produktionsregel, Startsymbol",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle<br />\n<br />"
+            },
+            {
+              "text": "Notation formaler Sprachen: Syntaxdiagramm und Erweiterte Backus-Naur-Form (EBNF)",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen<br />\n<br />"
+            },
+            {
+              "text": "Ableitung eines Wortes einer formalen Sprache als Folge von Regelanwendungen, Ableitungsbaum",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen<br />\n<br />"
+            },
+            {
+              "text": "erkennender endlicher Automat: Zustandsmenge, Eingabealphabet, Zustandsübergang, Startzustand, Endzustand, Fangzustand (Fehlerzustand); reguläre Sprache",
+              "competencies": "Gegenstandsbereiche: Modelle | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: formale Sprache, Alphabet, Grammatik, Terminal, Nichtterminal, Produktionsregel, Startsymbol, Syntaxdiagramm, reguläre Sprache, Ableitung, Ableitungsbaum, Erweiterte Backus-Naur-Form (EBNF), erkennender endlicher Automat, deterministischer endlicher Automat, Eingabealphabet, Startzustand, Endzustand, Fangzustand (Fehlerzustand), Zustandsübergang, Syntax, Semantik",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48716",
+        "subject": "Inf",
+        "year": 12,
+        "section": "Lernbereich 2:",
+        "text": "Kommunikation von Prozessen",
+        "estimate": 7
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "strukturieren Kommunikationsvorgänge durch Aufteilung in geeignete, aufeinander aufbauende Schichten und erhalten so auch ein grundlegendes Verständnis für die Bedeutung von Protokollen bei der Prozesskommunikation.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | modellieren<br />\n<br />"
+            },
+            {
+              "text": "sind aufgrund ihrer Kenntnisse der wesentlichen Prinzipien elektronischer Kommunikation in Netzwerken in der Lage, einfache Fehleranalysen bei Kommunikationsstörungen in Netzwerken (z. B. Nichterreichbarkeit eines Servers aufgrund falscher Adressierung) durchzuführen.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren | kooperieren und kommunizieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Kommunikation zwischen Prozessen, Protokolle zur Beschreibung dieser Kommunikation, Schichtenmodell",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Information und ihre Repräsentationen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Rechnernetz, Client-Server-Modell, Adressierung (MAC-Adresse, IP-Adresse, Port)",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Modelle | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Prozess, Protokoll, Schichtenmodell, Client-Server-Modell, MAC-Adresse, IP-Adresse, Port",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Modelle | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48719",
+        "subject": "Inf",
+        "year": 12,
+        "section": "Lernbereich 3:",
+        "text": "Modellierung nebenläufiger Prozesse",
+        "estimate": 13
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "analysieren und bewerten nebenläufige Prozesse im Hinblick auf ihren grundsätzlichen Ablauf und auf die Nutzung gemeinsamer Ressourcen; sie erkennen dabei insbesondere, dass der gemeinsame Zugriff auf Ressourcen durch Synchronisation geregelt werden muss.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren<br />\n<br />"
+            },
+            {
+              "text": "untersuchen anhand entsprechender Petrinetze Modelle nebenläufiger Prozesse hinsichtlich Konflikt- und Verklemmungssituationen und lösen diese in einfachen Fällen durch geeignete Modifikationen.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "modellieren mithilfe von Petrinetzen typische nebenläufige Szenarien (z. B. Geschäftsabläufe, Lagerverwaltung mit mehreren Lieferanten, Steuerung von Roboteranlagen, Verkehrsregelung an Straßenkreuzungen). Dadurch gewinnen sie ein vertieftes Verständnis dafür, dass derartige reale Vorgänge – beispielsweise aus Effizienzgründen – möglichst in parallel ablaufende Prozesse  zerlegt werden, die aber insbesondere bei Nutzung gemeinsamer Ressourcen koordiniert werden müssen.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | modellieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Prozess, Nebenläufigkeit, Synchronisation, Verklemmung",
+              "competencies": "Gegenstandsbereiche: Modelle | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Petrinetz (Stellen-Transitions-Netz) zur Analyse und Modellierung einfacher nebenläufiger Systeme bzw. Vorgänge: Stelle, Transition, Marke, Kapazität",
+              "competencies": "Gegenstandsbereiche: Modelle | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Klassische Probleme der Prozesssynchronisation: Erzeuger-Verbraucher-Problem, Leser-Schreiber-Problem",
+              "competencies": "Gegenstandsbereiche: Modelle<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: nebenläufige Prozesse, Synchronisation, Verklemmung, Erzeuger-Verbraucher-Problem, Leser-Schreiber-Problem, Petrinetz (Stellen-Transitions-Netz), Stelle, Transition, Marke, Kapazität",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Information und ihre Repräsentationen | Modelle | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48722",
+        "subject": "Inf",
+        "year": 12,
+        "section": "Lernbereich 4:",
+        "text": "Funktionsweise eines Rechners",
+        "estimate": 17
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben, orientiert am Von-Neumann-Modell, den schematischen Aufbau sowie die grundsätzliche Funktionsweise eines Computersystems und erläutern die Bedeutung des Von-Neumann-Modells in diesem Kontext.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | kooperieren und kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "stellen natürliche Zahlen im Binär- und Hexadezimalsystem dar und führen entsprechende Umrechnungen durch. Sie bauen damit ein Grundverständnis auf, wie Informationen in einem Speicher abgelegt und wie verschiedene hardwarenahe Repräsentationen (z. B. die MAC-Adresse oder die RGB-Darstellung von Farben) interpretiert werden können.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "setzen mithilfe einer Registermaschinensimulation auf Assemblerebene einfache Algorithmen um, die grundlegende Kontrollstrukturen enthalten, und testen diese Programme. Sie erhalten so ein Verständnis dafür, wie Programme, die mit höheren Programmiersprachen verfasst sind, auf maschinennaher Ebene repräsentiert werden.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "erläutern, z. B. unter Betrachtung der aktuellen Speicherbelegung, die prinzipielle Abarbeitung von Programmen bei einer Registermaschine. Sie vertiefen dabei ihr Verständnis über die grundsätzliche Funktionsweise eines Rechners.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | modellieren | kooperieren und kommunizieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Von-Neumann-Modell als grundlegendes Modell für moderne Rechner: Prozessor (Rechenwerk, Steuerwerk), Speicher (u. a. Abgrenzung Arbeits- versus Permanentspeicher), Ein- und Ausgabeeinheit, Bussystem",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Modelle<br />\n<br />"
+            },
+            {
+              "text": "Binär- bzw. Hexadezimalsystem als Grundlage der Codierung von Information in einem Speicher: Bit, Byte, Binär- bzw. Hexadezimalcodierung natürlicher Zahlen, Stellenwertsystem",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "einfaches Modell einer (auf der Von-Neumann-Architektur basierenden) Registermaschine: Akkumulator, Befehlsregister, Befehlszähler, Statusregister, Befehlszyklus",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Modelle<br />\n<br />"
+            },
+            {
+              "text": "algorithmische Grundbausteine auf Assemblerebene: Sequenz, ein- und zweiseitig bedingte Anweisung, Wiederholungen",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Binärsystem, Hexadezimalsystem, Bit, Byte, Von-Neumann-Modell, Prozessor, Speicher, Ein- und Ausgabeeinheit, Bussystem, Registermaschine, Akkumulator, Befehlsregister, Befehlszähler, Statusregister, Befehlszyklus",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme | Information und ihre Repräsentationen | Modelle | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48725",
+        "subject": "Inf",
+        "year": 12,
+        "section": "Lernbereich 5:",
+        "text": "Praktische Grenzen der Berechenbarkeit",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "bewerten durch einfache Abschätzungen mithilfe von Zeitmessungen und Zählverfahren (z. B. Zählen der Aufrufe bei rekursiven Algorithmen, Zählen der zeitkritischen Anweisungen) den Laufzeitaufwand überschaubarer Algorithmen. Dadurch wird deutlich, dass unterschiedliche Algorithmen zur Lösung eines Problems dieses unterschiedlich schnell lösen.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "begründen mithilfe geeigneter Beispiele (insbesondere Brute-Force-Verfahren zur Entschlüsselung unbekannter Passwörter), dass die Sicherheit moderner Verschlüsselung auf den praktischen Grenzen der Berechenbarkeit beruht. Damit wird bei den Schülerinnen und Schülern das Bewusstsein geschärft, dass ein hoher Laufzeitaufwand ein zentrales Kriterium für den Schutz vor Entschlüsselung ist.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Laufzeitaufwand von Algorithmen (linear, exponentiell, quadratisch als Beispiel für polynomiales Laufzeitverhalten, logarithmisch), Best-Case, Average-Case, Worst-Case",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Brute-Force-Verfahren",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Laufzeitverhalten, Brute-Force-Verfahren, Best-Case, Average-Case, Worst-Case",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

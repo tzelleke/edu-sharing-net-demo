@@ -1,0 +1,20 @@
+{
+    "subjects": [
+        {
+            "label": "biologie",
+            "years": [8, 9, 10, 11, 12]
+        },
+        {
+            "label": "informatik",
+            "years": [9, 10, 11, 12]
+        },
+        {
+            "label": "mathematik",
+            "years": [5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+            "label": "physik",
+            "years": [8, 9, 10, 11, 12]
+        }
+    ]
+}

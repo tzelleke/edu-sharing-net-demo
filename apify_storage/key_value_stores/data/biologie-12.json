@@ -1,0 +1,503 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "49522",
+        "subject": "B",
+        "year": 12,
+        "section": "Lernbereich 1:",
+        "text": "Erkenntnisse gewinnen – kommunizieren – bewerten",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "stellen theoriebasiert zu biologischen Fragestellungen Hypothesen auf und planen ausgehend von diesen selbständig naturwissenschaftliche Untersuchungen (z. B. Beobachtungen und Experimente).",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "setzen fachgemäße Arbeitsmethoden und -techniken bei der selbständigen, sicherheitsgerechten Durchführung qualitativer und quantitativer naturwissenschaftlicher Untersuchungen ein.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Validität von erhobenen oder recherchierten Daten, benennen Fehlerquellen und optimieren davon ausgehend das Untersuchungsdesign.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bereiten erhobene oder recherchierte Daten für die Auswertung auf, finden in diesen Trends, Strukturen und Beziehungen und verifizieren bzw. falsifizieren die zugrunde liegende Hypothese.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "verwenden Modelle zur Veranschaulichung und Erklärung von komplexen biologischen Prozessen und Phänomenen sowie zur Ableitung neuer Erkenntnisse.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bewerten die Aussagekraft von Modellen und begründen die Auswahl eines Modells zur Erklärung des vorliegenden Sachverhalts.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "stellen Prozesse grafisch dar, um Wirkungszusammenhänge zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "überführen Sachverhalte in eine sach-, adressaten- und situationsgerechte Darstellungsform (u. a. beschriftete Skizzen) und reflektieren die Eignung dieser Darstellungsform.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "schätzen selbständig beschaffte Quellen im Hinblick auf ihre Eignung ein und nutzen sie, um Sachverhalte zu bewerten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "erklären die Beeinflussung der Entwicklung naturwissenschaftlichen Wissens durch soziale, kulturelle und technologische Aspekte sowie Eigenschaften naturwissenschaftlichen Wissens, um es sinnvoll in Argumentationsprozesse der persönlichen und gesellschaftlichen Entscheidungsfindung einzubringen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "entwerfen differenzierte Handlungsoptionen und beurteilen diese unter Nutzung fachwissenschaftlicher Erkenntnisse und auf der Basis eines Wertesystems. Dabei sind sie sich der prinzipiellen Möglichkeit von Dilemma-Situationen bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "reflektieren soziale, ökonomische und ökologische Auswirkungen biologisch-technologischer Entwicklungen und bewerten diese im Hinblick auf eine nachhaltige Entwicklung.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "naturwissenschaftlicher Erkenntnisweg (Fragestellung, Hypothese, naturwissenschaftliche Untersuchung planen und durchführen, Datenauswertung und ‑interpretation): u. a. Prinzip der Variablenkontrolle, Fehlerquellen (z. B. Ungenauigkeiten der Messgeräte, Ablesefehler, Fehler im Untersuchungsdesign (z. B. zu kleine Stichprobengröße, Labor‑ oder Freilandbedingungen))",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "fachgemäße Arbeitsmethoden und ‑techniken: u. a. Beobachten, Experimentieren; Anwendung von Sicherheitsvorschriften",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Eigenschaften und Grenzen von materiellen und ideellen Modellen: u. a. Schlüssel-Schloss-Modell, dynamisches Modell zur Populationsentwicklung; Vor- und Nachteile zur Erklärung eines bestimmten Sachverhalts",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Anfertigung und Auswertung verschiedener Darstellungsformen, Wechsel der Darstellungsform: u. a. Darstellung von Prozessen und Wirkungszusammenhängen (Schemazeichnungen, Flussdiagramm, Concept-Maps, einfache Regelkreise), Sättigungskurve, Optimumskurve, Diagramme mit mehreren Datenreihen und mehreren abhängigen Variablen; Skizzen von Zellen und Zellorganellen (Neuron, Synapse, Chloroplast, Mitochondrium, Biomembran); Sach-, Adressaten-, und Situationsbezug (Perspektivwechsel, Vorteile von Darstellungsformen)",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Quelle: v. a. populär- und fachwissenschaftliche Literatur",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "Entwicklung und Eigenschaften naturwissenschaftlichen Wissens: u. a. Grundlagenforschung, angewandte Forschung; Vorläufigkeit und Subjektivität naturwissenschaftlichen Wissens, Wandel von wissenschaftlichen Methoden als Ursache für moralische Konfliktfelder, unterschiedliche Belastbarkeit von naturwissenschaftlichem Wissen, Abgrenzung von Hypothese, Theorie, Beweis",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Entscheidungsfindung als systematischer und begründeter Prozess: u. a. Perspektivwechsel, Dilemma-Situation (z. B. ökologische und ökonomische Aspekte)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "nachhaltige Entwicklung: Biodiversität, Stoffkreisläufe, Populationsentwicklung des Menschen",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49525",
+        "subject": "B",
+        "year": 12,
+        "section": "Lernbereich 2:",
+        "text": "Neuronale Informationsweiterleitung",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "skizzieren den Aufbau eines Neurons und stellen die Besonderheiten dieses spezialisierten Zelltyps in einen Struktur-Funktions-Zusammenhang.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "beschreiben den Aufbau von Biomembranen nach dem Flüssig-Mosaik-Modell, um Transportvorgänge durch eine Biomembran zu erläutern.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erklären anhand von Messdaten zur Ionenverteilung die Ladungsverhältnisse an der Biomembran einer Nervenzelle im Ruhezustand und leiten daraus ab, dass zur Aufrechterhaltung des Ruhepotentials Energie aufgewendet werden muss.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erklären die auftretenden Potentialänderungen bei einem Aktionspotential, indem sie die Vorgänge auf der Teilchenebene bei überschwelliger Depolarisation an der Axonmembran beschreiben, und erklären, wie Informationen codiert werden.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "beschreiben und vergleichen die Weiterleitung der Potentialänderung an verschiedenen Nervenfasern, um die unterschiedliche Leistungsfähigkeit von Nervensystemen bei Wirbellosen und Wirbeltieren zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "leiten aus den Vorgängen bei der Informationsübertragung an chemischen Synapsen Möglichkeiten ab, diese Informationsübertragung durch Zufuhr von Substanzen zu beeinflussen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Bau eines Neurons",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Aufbau einer Biomembran nach dem Flüssig-Mosaik-Modell; freie Diffusion, aktiver und passiver Transport, selektive Permeabilität",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Ruhepotential: Modellvorstellung zur Entstehung und Aufrechterhaltung",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "Aktionspotential: Ionenkanäle und Ionenbewegungen, zeitlicher Verlauf, absolute und relative Refraktärphase, Alles-oder-Nichts-Prinzip, Codierung der Information (Reizstärke, Reizdauer)",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "myelinisierte und nicht-myelinisierte Nervenfaser, Kosten-Nutzen-Analyse von kontinuierlicher und saltatorischer Erregungsleitung",
+              "competencies": "Gegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "elektrochemische Vorgänge an einer erregenden chemischen Synapse: Prinzip der Erregungsübertragung, Schlüssel-Schloss-Modell am Rezeptor, Wirkungsprinzipien von Synapsengiften an der neuromuskulären Synapse",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Synapsen als Angriffspunkte für Medikamente und Suchtmittel",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49528",
+        "subject": "B",
+        "year": 12,
+        "section": "Lernbereich 3:",
+        "text": "Stoffwechselphysiologie der Zelle",
+        "estimate": 26
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49531",
+        "subject": "B",
+        "year": 12,
+        "section": "3.1",
+        "text": "Aufbau von energiereichen Stoffen (Assimilation)",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben das Grundprinzip der Assimilation und legen deren Bedeutung für das Leben auf der Erde dar.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "erklären, welche Außenfaktoren die Photosynthese beeinflussen, legen dar, wie sich Veränderungen der Außenfaktoren auf die Photosyntheserate auswirken, und beurteilen deren Folgen für Wild- und Nutzpflanzen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "stellen einen Zusammenhang zwischen molekularen, anatomischen und morphologischen Strukturen dar, indem sie auf verschiedenen Organisationsebenen die Angepasstheiten einer Pflanze an die Photosynthese erläutern.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "beschreiben die Tracer-Methode als Werkzeug, um Stoffwechselwege z. B. bei der Photosynthese aufzuklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "erklären die Bildung von Reduktions- und Energieäquivalenten, die für den Glucose-Aufbau benötigt werden, mithilfe eines energetischen und chemiosmotischen Modells zum Ablauf der lichtabhängigen Reaktionen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "charakterisieren den Calvin-Zyklus als Schlüsselstelle für den Aufbau von energiereichen organischen Verbindungen unter Verwendung der Reduktions- und Energieäquivalente aus der lichtabhängigen Reaktion.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Gesamtgleichung der Photosynthese als endotherme Redoxreaktion, Assimilation durch photoautotrophe Organismen (Stoff- und Energieumwandlung)",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Photosyntheserate in Abhängigkeit von verschiedenen Außenfaktoren (Lichtqualität: Absorptions- und Wirkungsspektrum der Photosynthese; Beleuchtungsstärke; Kohlenstoffdioxid-Konzentration; Temperatur), ökologische Bedeutung der Außenfaktoren, Maßnahmen zur Ertragssteigerung in der Landwirtschaft",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Angepasstheiten der Pflanze an die Photosynthese: Absorption von Licht (Schatten- und Sonnenblätter, Chloroplast (elektronenoptisches Bild), Photosynthesefarbstoffe), Aufnahme von Kohlenstoffdioxid (Spaltöffnungen, enzymatische Fixierung), Verdunstungsschutz (Blattfläche, Epidermis mit Cuticula, Spaltöffnungen)",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Tracer-Methode",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "energetisches Modell der lichtabhängigen Reaktionen: Photolyse des Wassers, Elektronentransportkette an der Thylakoidmembran, Bildung von NADPH; Bildung von ATP nach der chemiosmotischen Theorie",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "wesentliche Schritte des Calvin-Zyklus: Fixierungsphase, Reduktionsphase (endotherme Reduktion der Carboxygruppe zur Carbonylgruppe), Regenerationsphase, Synthese von Glucose",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Zusammenwirken der lichtabhängigen und lichtunabhängigen Reaktionen",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49534",
+        "subject": "B",
+        "year": 12,
+        "section": "3.2",
+        "text": "Umbau von Stoffen",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben, wie Pflanzen Stoffe ineinander umwandeln können und so Biomasse aufbauen, die sie und heterotrophe Lebewesen als Grundlage für ihren Energie- und Baustoffwechsel nutzen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "erklären die Bedeutung von Enzymen für eine bedarfsgerechte Regulation des Stoffwechsels.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Übersicht über die Bedeutung des Photosyntheseprodukts Glucose für die Pflanze, als Nährstoff für heterotrophe Organismen und für den enzymkatalysierten Umbau in körpereigene Reserve- und Baustoffe (u. a. Kohlenhydrate, Fette, Aminosäuren); nachwachsende Rohstoffe",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Regulation von Stoffwechselprozessen durch Enzyme (kompetitive und nichtkompetitive Hemmung; Schlüssel-Schloss-Modell)",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49559",
+        "subject": "B",
+        "year": 12,
+        "section": "3.3",
+        "text": "Abbau von energiereichen Stoffen (Dissimilation)",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erklären die Bildung von ATP unter Sauerstoffmangelbedingungen mithilfe verschiedener anaerober Abbauwege von Glucose.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "beschreiben im Überblick den aeroben Abbauweg von Glucose zu Kohlenstoffdioxid, die Bildung von Energieäquivalenten und die Regeneration der Reduktionsäquivalente zur Aufrechterhaltung der Abbaureaktionen und vergleichen sie mit den Stoffwechselwegen der Photosynthese, um grundlegende Prinzipien des Stoffwechsels abzuleiten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "erklären durch einen Vergleich der Stoff- und Energiebilanzen des aeroben und anaeroben Abbaus, unter welchen Bedingungen die jeweiligen Abbauwege begünstigt werden.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Milchsäuregärung und alkoholische Gärung: Glykolyse (Umsetzung von Glucose zu Brenztraubensäure unter Bildung von ATP und NADH (ohne Strukturformeln)), Regeneration von NAD⁺; Bedeutung",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "aerober Abbau im Überblick: Glykolyse im Zytoplasma, Abbau von Brenztraubensäure im Mitochondrium zu Kohlenstoffdioxid, Bildung von NADH als energiereicher Zwischenspeicher, Regeneration von NAD⁺ durch Übertragung von Elektronen und Protonen auf Sauerstoff, chemiosmotisches Modell zur Bildung von ATP",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Vergleich Photosynthese und Zellatmung: Chloroplast und Mitochondrium (Kompartimentierung, Oberflächenvergrößerung, Membransystem); biochemische Prinzipien (Prinzip einer Elektronentransportkette, Protonengradient, Enzymkatalyse, Prinzip des zyklischen Prozesses, Zerlegung in Teilschritte, ggf. weitere)",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            },
+            {
+              "text": "Energiebilanz des anaeroben bzw. aeroben Abbaus von Glucose, flexible Anpassung von Stoffwechselwegen (Hefezellen, Skelettmuskelzellen)",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49561",
+        "subject": "B",
+        "year": 12,
+        "section": "Lernbereich 4:",
+        "text": "Ökologie und Biodiversität",
+        "estimate": 18
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49562",
+        "subject": "B",
+        "year": 12,
+        "section": "4.1",
+        "text": "Dynamische Prozesse in Ökosystemen",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "charakterisieren ein Biotop, indem sie abiotische Faktoren analysieren.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "nutzen Daten aus wissenschaftlicher Feldforschung, um die Zusammensetzung einer Biozönose quantitativ zu erfassen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "ordnen Lebewesen einer Trophieebene zu und erläutern den Energiefluss in einem Ökosystem.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "beschreiben unter Einbeziehung von Laborversuchen die ökologische Potenz von Lebewesen bezüglich abiotischer Faktoren, um die Eignung von Lebensräumen für Lebewesen zu beurteilen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | System <br />\n<br />"
+            },
+            {
+              "text": "beschreiben die unterschiedliche Einflussnahme biotischer Faktoren auf ein Lebewesen und erklären das Konzept der ökologischen Nische als Zusammenspiel biotischer und abiotischer Faktoren, aus dem sich die Zusammensetzung der Biozönose eines Ökosystems ergibt.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "erläutern die verschiedenen Phasen der Populationsentwicklung und begründen die Dynamik mit dem Einfluss von Umweltfaktoren auf die Population und selbstregulierenden Faktoren in der Population.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | System <br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Biotop: abiotische Faktoren (Temperatur, Licht, Wasser, ggf. weitere), geeignete Messverfahren",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "Biozönose: biotische Faktoren, Verfahren zur quantitativen Erfassung eines Bestandes; Nahrungsbeziehungen (Produzenten, Konsumenten (auch Destruenten)), Stoffkreislauf und Energiefluss",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung | System <br />\n<br />"
+            },
+            {
+              "text": "Einfluss abiotischer Faktoren auf Individuen: Toleranzkurve; Generalisten, Spezialisten",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | System <br />\n<br />"
+            },
+            {
+              "text": "Einfluss biotischer Faktoren auf Individuen: Konkurrenz, Koexistenz, Symbiose, Prädation (Carnivorie, Herbivorie, Parasitismus)",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Variabilität und Angepasstheit | System <br />\n<br />"
+            },
+            {
+              "text": "ökologische Nische, ökologische Potenz, Konkurrenzvermeidung",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Variabilität und Angepasstheit | System <br />\n<br />"
+            },
+            {
+              "text": "idealisierte Populationsentwicklung: Wachstumsphasen; Einfluss von abiotischen und biotischen Umweltfaktoren (u. a. Konkurrenz, Prädation) auf die Entwicklung von Populationen (logistisches Wachstum); Umweltkapazität, biologisches Gleichgewicht, Neobiota",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | System <br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49563",
+        "subject": "B",
+        "year": 12,
+        "section": "4.2",
+        "text": "Anthropogene Einflüsse auf Ökosysteme und der Wert der Natur",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "unterscheiden Bereiche, in denen der Mensch die Ressourcen von Ökosystemen nutzt, und erklären die Bedeutung dieser Ökosystemdienstleistungen für den Menschen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "vergleichen verschieden stark beeinflusste Ökosysteme nach dem Konzept der Ökosystemdienstleistungen, um den Wert von Erhalt bzw. Renaturierung einzuschätzen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "reflektieren die anthropozentrische Bewertung der Natur und sind sich dadurch der Notwendigkeit einer Werteabwägung bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "ökonomische Kosten menschlicher Einflussnahme auf ein Ökosystem, Konzept der Ökosystemdienstleistungen, Bedeutung der Biodiversität",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "Monetarisierung von ausgewählten Ökosystemen, Kosten-Nutzen-Analyse von menschlichen Eingriffen (Erhaltungs- und Renaturierungsmaßnahmen), Prozessschutz, Vorteile und Grenzen der ökonomischen Sichtweise",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "anthropozentrische Bewertung der Natur, Notwendigkeit einer Werteabwägung",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

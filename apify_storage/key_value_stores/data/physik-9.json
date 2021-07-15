@@ -1,0 +1,471 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "217024",
+        "subject": "Ph",
+        "year": 9,
+        "section": "Lernbereich 1:",
+        "text": "Energie als Erhaltungsgröße",
+        "estimate": 26
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217019",
+        "subject": "Ph",
+        "year": 9,
+        "section": "1.1",
+        "text": "Mechanische Energie",
+        "estimate": 15
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben qualitativ Vorgänge in Technik und Natur mithilfe der Umwandlung von Energieformen, insbesondere der kinetischen Energie, der Höhenenergie und der Spannenergie. Dazu entnehmen sie Informationen aus unterschiedlichen Quellen (z. B. Texten, Bilderfolgen, Videoclips) und verwenden fachsprachlich korrekte Formulierungen sowie verschiedene Darstellungsformen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "nutzen das Prinzip der Energieerhaltung, um bei Energieumwandlungen mechanische Energieformen quantitativ zu bilanzieren und Größen zu berechnen.",
+              "competencies": ""
+            },
+            {
+              "text": "beziehen die Prozessgröße Arbeit bei der Anwendung des Prinzips der Energieerhaltung ein. Sie beschreiben mit den Größen Energie und Arbeit mechanische Vorgänge in alltagsrelevanten Kontexten und führen mit ihnen einfache Berechnungen durch.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "unterscheiden deutlich zwischen den Größen Kraft, Energie, Arbeit und Leistung, indem sie Zusammenhänge zwischen diesen Größen und ihren Einheiten herstellen sowie fachsprachlich korrekte Formulierungen verwenden, die sie von alltagssprachlichen bewusst trennen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "planen unter Anleitung ein Experiment zur Bestimmung der Leistung des menschlichen Körpers oder technischer Geräte. Sie führen es selbständig durch und halten ihre Ergebnisse eigenständig in einem strukturierten Versuchsprotokoll fest. Dabei berücksichtigen sie relevante Sicherheitsbestimmungen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Überblick über verschiedene Energieformen, Prinzip der Energieerhaltung, qualitative Beschreibung von Energieumwandlungen",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "quantitative Beschreibung der Höhenenergie und der kinetischen Energie",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "quantitative Bilanzierung der Energieformen bei mechanischen Vorgängen",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "Arbeit als Maß für die einem System zugeführte oder entzogene mechanische Energie, Wegunabhängigkeit der Hubarbeit, Arbeit als Produkt aus Kraft und Weg",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Leistung, Schülerexperiment: Leistung des menschlichen Körpers oder technischer Geräte",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217021",
+        "subject": "Ph",
+        "year": 9,
+        "section": "1.2",
+        "text": "Elektrische Energie",
+        "estimate": 11
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben elektrische Ladungen als Vielfache der Elementarladung und nutzen mechanische Analogien, um den Zusammenhang zwischen Stromstärke und Ladung zu präzisieren.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "veranschaulichen ausgehend von ihren Kenntnissen zur potentiellen Energie in der Mechanik und einem Modell des elektrischen Stromkreises die elektrische Potentialdifferenz und schließen mithilfe des Energiekonzepts auf die an einem elektrischen Bauteil umgesetzte Energie. Sie nutzen das Modell auch zur Ausschärfung der Analyse von Stromstärken und Spannungen in elektrischen Schaltungen mit maximal drei Widerständen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erstellen selbständig die Leistungsbilanz zu einer vorgegebenen Schaltung mit mehreren Widerständen. Dazu identifizieren sie benötigte Größen und setzen Stromstärke- und Spannungsmessgeräte sachgerecht zur selbständigen Messung dieser Größen ein.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "vergleichen an einem elektrischen Gerät aus ihrem Erfahrungsbereich die aufgenommene elektrische Leistung mit der genutzten und schließen damit auf den Wirkungsgrad der Energieumwandlungen. Sie formulieren mit Hilfestellung eine adressatengerechte Bewertung der Umweltverträglichkeit des Geräts und reflektieren, dass sich Bewertungen aufgrund der Auswahl und Gewichtung von Aspekten unterscheiden können.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Präzisierung der Größen Ladung und Stromstärke, Elementarladung",
+              "competencies": "Gegenstandsbereiche: Materie<br />\n<br />"
+            },
+            {
+              "text": "Präzisierung der Spannung als Potentialdifferenz mithilfe eines Modells des elektrischen Stromkreises und des Energiekonzepts",
+              "competencies": "Gegenstandsbereiche: Energie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Zusammenhang zwischen elektrischer Energie, Leistung, Spannung und Stromstärke",
+              "competencies": "Gegenstandsbereiche: Energie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Schülerexperiment: Betrachtungen zur elektrischen Leistung an einer Schaltung mit mehreren Widerständen",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "Wirkungsgrad",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "217020",
+        "subject": "Ph",
+        "year": 9,
+        "section": "Lernbereich 2:",
+        "text": "Atome",
+        "estimate": 8
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verwenden das Photonenmodell, um experimentelle Beobachtungen, z. B. zur Fluoreszenzanregung durch unterschiedliche Lichtquellen, plausibel zu machen. Sie beurteilen die von Photonen unterschiedlicher Spektralbereiche ausgehenden Risiken.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären Emissions- und Absorptionsspektren auf der Grundlage des Energiestufenmodells des Atoms sowie des Photonenmodells des Lichts und führen einfache Berechnungen mit Energiewerten durch.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "interpretieren ein Diagramm zum Absorptionsverhalten der Erdatmosphäre als Überlagerung von Absorptionsdiagrammen verschiedener Gase.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Photonenmodell des Lichts, Zusammenhang zwischen Farbe und Photonenenergie, Ultraviolettstrahlung und Infrarotstrahlung",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "diskrete und kontinuierliche optische Spektren",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "Energiestufenmodell des Atoms: diskrete Energiestufen, Energieaufnahme und Energieabgabe von Atomen durch Absorption und Emission von Photonen",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Absorptionsspektrum der Erdatmosphäre",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "217027",
+        "subject": "Ph",
+        "year": 9,
+        "section": "Lernbereich 3:",
+        "text": "Wärmelehre",
+        "estimate": 22
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217017",
+        "subject": "Ph",
+        "year": 9,
+        "section": "3.1",
+        "text": "Das Teilchenmodell",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "identifizieren im Rahmen des Teilchenmodells die mittlere kinetische Energie der Teilchen als Maß für die Temperatur und begründen damit die absolute Temperaturskala.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "übertragen unter Verwendung dynamischer Visualisierungen ihre Kenntnisse über mechanische Energieformen auf das Teilchenmodell und deuten damit die innere Energie.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "interpretieren die Änderung des Aggregatzustandes, insbesondere von Wasser, als Aufnahme bzw. Abgabe von potentieller Energie. Hierbei unterscheiden sie bewusst zwischen Modell- und Realitätsebene.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "veranschaulichen den Druck im Rahmen des Teilchenmodells und nutzen ihn neben Temperatur und Volumen, um den Zustand eines Gases zu beschreiben.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären in Kontexten aus Technik und Natur Druckänderungen eines Gases mithilfe halbquantitativer Aussagen über die Abhängigkeit des Drucks von Temperatur und Volumen. Sie identifizieren Bereiche höheren und niedrigeren Drucks und erkennen Druckunterschiede als Ursache für Teilchenströme.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "absolute Temperatur und mittlere kinetische Energie der Teilchen",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "innere Energie als Summe von potentieller und kinetischer Energie der Teilchen",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "Energieänderung bei Änderung des Aggregatzustands",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "Druck als Zustandsgröße von Gasen, Druckänderung eines Gases bei Volumen- oder Temperaturänderung",
+              "competencies": "Gegenstandsbereiche: Materie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Druckunterschied als Ursache für einen Teilchenstrom",
+              "competencies": "Gegenstandsbereiche: Materie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217025",
+        "subject": "Ph",
+        "year": 9,
+        "section": "3.2",
+        "text": "Thermischer Energietransport und Einflüsse auf unser Klima",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "formulieren Hypothesen zur Abhängigkeit der Temperaturerhöhung einer Flüssigkeit oder eines festen Körpers von verschiedenen Größen und planen weitgehend selbständig ein Experiment zu deren Überprüfung. Sie führen den Versuch selbständig durch und halten ihre Ergebnisse in einem strukturierten Versuchsprotokoll fest.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beziehen die Prozessgröße Wärme bei der Anwendung des Prinzips der Energieerhaltung ein und grenzen diese von der Größe Arbeit anhand von Beispielen ab. Sie verwenden den Begriff Wärme in fachsprachlich korrekten Formulierungen, die sie von alltagssprachlichen bewusst trennen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "beschreiben anhand ausgewählter Beispiele Ursachen und Prozesse des thermischen Energietransports: Wärmeleitung, Konvektion und Wärmestrahlung. Sie nutzen diese Kenntnisse, um in physikalisch schlüssigen Argumentationen die Vorgänge zu erklären, die zur Erwärmung der Erdatmosphäre führen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "führen ein vorgegebenes Experiment zum Treibhauseffekt selbständig durch, dokumentieren ihre Beobachtungen bei der Variation von Parametern und ziehen aus diesen Beobachtungen Schlussfolgerungen über das physikalische System Erdatmosphäre.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "stellen graphisch Energieflüsse in der Erdatmosphäre dar und erkennen daran den Einfluss von Treibhausgasen auf die Temperatur der Erdoberfläche im Strahlungsgleichgewicht. Dazu nutzen sie auch geeignete Simulationssoftware.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "entnehmen einer fachwissenschaftlichen Quelle Informationen zu Ursprung und Konsequenzen anthropogener Einflüsse auf das Klima der Erde und analysieren die physikalisch schlüssige Argumentationsweise in dieser Quelle.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "stellen Maßnahmen zur Einhaltung aktueller Klimaschutzziele auf persönlicher und gesellschaftlicher Ebene zusammen und diskutieren ihre Relevanz.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Schülerexperiment: Untersuchung der Abhängigkeit der Temperaturerhöhung einer Flüssigkeit oder eines festen Körpers von verschiedenen Größen, spezifische Wärmekapazität",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "Änderung der inneren Energie durch Arbeit oder Wärme",
+              "competencies": "Gegenstandsbereiche: Energie | Materie<br />\n<br />"
+            },
+            {
+              "text": "Temperaturunterschied als Ursache für einen Energiestrom: Wärmeleitung, Konvektion, Wärmestrahlung",
+              "competencies": "Gegenstandsbereiche: Energie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Schülerexperiment: Modellversuch zum Treibhauseffekt",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Strahlungsgleichgewicht der Erde, natürliche und anthropogene Beiträge zum Treibhauseffekt und ihre Auswirkungen auf die Erderwärmung",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "217018",
+        "subject": "Ph",
+        "year": 9,
+        "section": "Lernbereich 4:",
+        "text": "Profilbereich am NTG",
+        "estimate": 28
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217023",
+        "subject": "Ph",
+        "year": 9,
+        "section": "4.1",
+        "text": "Klima",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "entnehmen mehreren vorgegebenen Quellen unterschiedlicher Niveaus Informationen zu weiteren relevanten physikalischen Aspekten des Klimasystems und identifizieren dabei die Beiträge der Physik zum Erkenntnisfortschritt in diesem Themenbereich. Sie fassen diese Informationen zusammen und bereiten sie für eine Präsentation adressatenbezogen auf, an geeigneten Stellen (z. B. Energieaufnahme durch die Ozeane) verbunden mit Abschätzungen aufgrund einfacher Modellrechnungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "recherchieren im Internet alternative Erklärungsansätze für die beobachtbare Erderwärmung. Sie setzen sich mit deren Argumenten auf der Basis physikalischer Erkenntnisse auseinander und erörtern die Interessenlagen der Autoren. Sie bewerten Quellen im Internet im Hinblick auf Stimmigkeit und Korrektheit der Argumentation. Sie sind sich der Bedeutung der naturwissenschaftlichen Arbeitsweise für die Objektivierung der Klimadebatte bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "thermische Ausdehnung als eine der Ursachen für den Meeresspiegelanstieg, dämpfende Wirkung der Ozeane auf die Erwärmungsgeschwindigkeit der Erde",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "positive und negative Rückkopplungen im Klimasystem, z. B. Eis-Albedo-Rückkopplung, Veränderungen in der Atmosphäre",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Kippelemente im Klimasystem, z. B. Abschmelzen der Eisschilde, Instabilität der Umwälzströmung im Atlantik",
+              "competencies": "Gegenstandsbereiche: Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "alternative Erklärungsansätze für die beobachtbare Erderwärmung, Verantwortung und Freiheit der Naturwissenschaftlerinnen und Naturwissenschaftler",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "217026",
+        "subject": "Ph",
+        "year": 9,
+        "section": "4.2",
+        "text": "Vertiefung prozessbezogener Kompetenzen anhand ausgewählter weiterer Inhalte",
+        "estimate": 18
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "dokumentieren selbständig experimentelle Untersuchungen sowie durch andere fachtypische Arbeitsweisen (z. B. Auswertung vorgegebener oder recherchierter Quellen) gewonnene Ergebnisse, ggf. unter Verwendung angemessener Formen der Mathematisierung. Hierbei legen sie die Struktur der Dokumentation nach fachlichen Gesichtspunkten selbständig fest und setzen vorgegebene Darstellungsformen sach- und adressatengerecht ein.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "präsentieren Arbeitsergebnisse sach- und adressatengerecht in mündlichen Beiträgen, Referaten oder anhand von Dokumentationen und tauschen sich in geführten Diskussionen über Arbeitsergebnisse konstruktiv aus. Hierbei verwenden sie fachsprachlich korrekte Formulierungen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "nehmen bei mündlichem und schriftlichem Meinungsaustausch einen begründeten Standpunkt ein. Sie wägen Nutzen und Risiken technischer Anwendungen für Mensch und Umwelt nach selbständig ausgewählten Kriterien ab. Hierbei beziehen sie bereits erworbene Fachkenntnisse sowie selbständig gewonnene Arbeitsergebnisse mit ein.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "energetische Betrachtungen zu Energiebedarf, Energieaufnahme und Energieumwandlungen im menschlichen Körper",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "Energieeinsparung bei Gebäuden: Isolierung, quantitative Betrachtungen zur Wärmeleitung, Analogie zwischen thermischem Energiefluss und elektrischem Stromfluss, Parallel- und Reihenschaltungen von Isolationsmaterialien",
+              "competencies": "Gegenstandsbereiche: Energie | Materie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Energieversorgung: Primärenergieträger, Energiebedarf und Energiemix Deutschlands und der Welt, Energiebilanz eines Durchschnittshaushalts, Optimierungspotenziale im eigenen Haushalt",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "regenerative Energiequellen: Versorgungssicherheit, Ökobilanz, Speicherung",
+              "competencies": "Gegenstandsbereiche: Energie<br />\n<br />"
+            },
+            {
+              "text": "Kraftfahrzeugtechnik: Antriebsarten, Speichertechnologien, Ökobilanz",
+              "competencies": "Gegenstandsbereiche: Energie | Wechselwirkung<br />\n<br />"
+            },
+            {
+              "text": "Druck von Flüssigkeiten und Gasen: Schweredruck, Auftrieb, Blutdruck, Tauchen",
+              "competencies": "Gegenstandsbereiche: Materie | Wechselwirkung | Systeme im Gleich- und Ungleichgewicht<br />\n<br />"
+            },
+            {
+              "text": "Spektren von Temperaturstrahlern in den Strahlungsbereichen ultraviolett, sichtbar und infrarot, Reflexions-, Absorptions- und Transmissionseigenschaften von Materie in den unterschiedlichen Strahlungsbereichen",
+              "competencies": "Gegenstandsbereiche: Materie | Wechselwirkung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

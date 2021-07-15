@@ -1,0 +1,402 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "216243",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 1:",
+        "text": "Erkenntnisse gewinnen – kommunizieren – bewerten",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "formulieren ausgehend von einfach strukturierten Alltags- und Naturphänomenen biologische Fragestellungen und planen hypothesengeleitet z. B. Beobachtungen und Experimente zu deren vorwiegend qualitativer Beantwortung.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen einfache naturwissenschaftliche Untersuchungen zu vorgegebenen und eigenen Themen und Fragestellungen durch. Dabei fertigen sie mit Hilfestellung ein naturwissenschaftliches Protokoll an.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beobachten Lebewesen und ihre Lebenserscheinungen auch in der natürlichen Umgebung anhand von vorgegebenen und eigenen Kriterien. Sie dokumentieren mit Hilfestellungen in einem naturwissenschaftlichen Protokoll strukturiert ihre Beobachtungen, werten sie aus und veranschaulichen sie.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bestimmen häufig vorkommende Lebewesen mithilfe ausgewählter Bestimmungshilfen (z. B. Bestimmungsbuch, digitales Nachschlagewerk), um ihre Artenkenntnis zu erweitern.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "interpretieren erhobene oder recherchierte Daten unter Einbezug möglicher Fehlerquellen und setzen diese zur Eingangshypothese in Beziehung.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erklären die Bedeutung des naturwissenschaftlichen Erkenntnisweges zur Erweiterung des Wissens und schätzen ab, ob eine vorgegebene Fragestellung mithilfe biologischer Methoden zu beantworten ist.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beschreiben Wechselwirkungen und Prozesse (z. B. im menschlichen Organismus, zur Suchtentstehung, zum Einfluss des Menschen auf Ökosysteme) mithilfe von Modellen und schätzen die Grenzen von Modellen ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beantworten biologische Fragestellungen, indem sie vorgegebene, auf einfachen Texten und wenigen Darstellungsformen beruhende, auch digitale, Quellen auswerten. Dabei berücksichtigen sie u. a. die Intention der jeweiligen Quelle.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "wägen Folgen menschlichen Handelns auf die lokale und globale nachhaltige Entwicklung ab und erörtern Handlungsoptionen, indem sie vorgegebene Pro- und Kontra-Argumente (z. B. zum Einkaufsverhalten oder zur Transportmittelnutzung) auswerten, um bewusste, wertorientierte Entscheidungen treffen zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "wägen Folgen von eigenen Verhaltensweisen sowie Verhaltensweisen anderer für die eigene Gesundheit und die Gesundheit anderer ab, um bewusste, wertorientierte Entscheidungen für die Gesunderhaltung (z. B. des Gehörs) treffen zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "naturwissenschaftlicher Erkenntnisweg (Fragestellung, Hypothese, Planung und Durchführung von naturwissenschaftlichen Untersuchungen, Datenauswertung (ggf. digital) und Dateninterpretation): u. a. Hypothesenprüfung, Regel oder Gesetz; Fehlerquellen (z. B. falsche Fragestellung, falsches Untersuchungsdesign)",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Entwicklung und Eigenschaften naturwissenschaftlichen Wissens: u. a. Nutzung unterschiedlicher Methoden zur Erkenntnisgewinnung; Daten und deren Interpretation als Grundlage, Abhängigkeit der Interpretation von z. B. Vorwissen, Erwartungshaltung",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Eigenschaften und Grenzen von materiellen und ideellen Modellen: u. a. Modell-Definition, Vergleich von Modelldarstellungen, Zweck eines Modells",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Anfertigung und Auswertung verschiedener Darstellungsformen (auch mithilfe digitaler Medien), Wechsel der Darstellungsform: u. a. Texte; Tabellen; Schnitt- und Schemazeichnungen u. a. zur Darstellung von Zellen und zellulären Vorgängen; Diagramme zur Darstellung qualitativer Zusammenhänge (z. B. Flussdiagramm, Baumdiagramm, einfacher Regelkreis), Kreis-  und Achsendiagramme zur Darstellung quantitativer Zusammenhänge (Punkt-, Linien- und Säulendiagramm; eine abhängige Variable), Bezeichnung von Messgröße, Größensymbol und Einheit",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "Quellen: v. a. Schulbuch, populärwissenschaftliche Literatur und altersgemäße digitale Medien",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "Gesundheitsbewusstsein und Verantwortung: z. B. Gesundheitsvorsorge, Stressbewältigung, Suchtgefahren, verantwortungsvoller Umgang mit Sexualität, Verhalten während der Schwangerschaft; Nachhaltigkeit (soziale, ökologische und ökonomische Gesichtspunkte), Schutz der biologischen Vielfalt",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "216248",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 2:",
+        "text": "Informationsaufnahme, ‑verarbeitung und Reaktion beim Menschen",
+        "estimate": 20
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben den Aufbau einer Nervenzelle und die Kommunikation zwischen den verschiedenen Elementen einer Reiz-Reaktions-Kette, um das komplexe Zusammenwirken von Sinnesorganen, Nervensystem und Erfolgsorganen bei der Reaktion des Organismus auf Reize zu erklären.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erklären die Wahrnehmung von Licht als Zusammenwirken von lichtbrechendem Apparat des Auges, den Sehsinneszellen der Netzhaut sowie dem Gehirn und leiten Ursachen von Sehfehlern sowie Möglichkeiten für deren Korrektur ab.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Information und Kommunikation | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "leiten aus den Kenntnissen zum Hörvorgang Maßnahmen zur Vermeidung von Hörschäden ab.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "beschreiben mithilfe von Modellvorstellungen den Wirkungsmechanismus von Hormonen und deren Bedeutung für die Informationsübertragung im menschlichen Körper.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Regulation des Blutzuckerspiegels durch Hormone und stellen einen Zusammenhang zwischen Lebensgewohnheiten sowie Veranlagung und dem Auftreten von Diabetes her, indem sie erklären, welche Faktoren die Regulation des Blutzuckerspiegels beeinflussen.",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "erklären das Auftreten körperlicher Symptome bei der Stressreaktion durch das Zusammenspiel von Nervensystem und hormonellen Faktoren und nutzen ihre Kenntnisse für die individuelle Stressbewältigung.",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation | System <br />\n<br />"
+            },
+            {
+              "text": "vergleichen die Informationsübertragung im Nervensystem mit der Informationsübertragung durch Hormone.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Aufbau einer Nervenzelle, grundlegende Funktionsweise einer chemischen Synapse, Kommunikation als Weiterleitung von Informationen innerhalb einer Reiz-Reaktions-Kette (elektrisch, chemisch; afferent, efferent)",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "lichtbrechender Apparat des Auges, Funktion und Beeinträchtigungen (Bau, Akkommodation, Sehfehler und Korrektur); Umwandlung der Information des Lichtes in elektrische Impulse in den Stäbchen und Zapfen; selektive Wahrnehmung im Gehirn, optische Täuschungen",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Information und Kommunikation | System  | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Grundlagen des Hörvorgangs; Schäden durch Lärmeinwirkung, u. a. laute Musik",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "zellulärer Wirkungsmechanismus der Hormone: Rezeptorbindung nach dem Schlüssel-Schloss-Modell, spezifische Reaktion der Zielzelle",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Information und Kommunikation | Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "Blutzuckerregulation durch Hormone, Diabetes auch als Zivilisationskrankheit",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Stoff- und Energieumwandlung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "Stressreaktion: Zusammenwirken von Nerven- und Hormonsystem, Hinweis auf das vegetative Nervensystem, Möglichkeiten sinnvoller Stressbewältigung",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation | System <br />\n<br />"
+            },
+            {
+              "text": "Vergleich der Informationsübertragungssysteme: u. a. Geschwindigkeit und Weg der Informationsübertragung",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "216246",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 3:",
+        "text": "Fortpflanzung und Individualentwicklung des Menschen",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verständigen sich in medizinischen und gesellschaftlichen Kontexten sowie in Partnerschaften in geeigneter Sprache und respektvoll über Sexualität und begegnen medial vermittelter sexueller Belästigung und Gewalt sowie der unterschwelligen Bedrohung durch sexualisierten, abwertenden Sprachgebrauch angemessen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "bewerten unterschiedliche Verhaltensweisen im Hinblick auf die sexuelle Selbstbestimmung, die Achtung von persönlicher Würde und freier Selbstentfaltung und stellen Rollen- und Körperbilder und die Sexualisierung von Alltagsthemen in den Medien infrage.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "charakterisieren psychische und physische Veränderungen während der Pubertät als Teil eines biologischen Entwicklungsprozesses, um diese Veränderungen dadurch bei sich und bei anderen besser annehmen und verstehen zu können. Dabei erkennen sie den Einfluss der Medien auf eigene Vorstellungen von Sexualität und Schönheit.",
+              "competencies": "Gegenstandsbereiche: Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "beschreiben den Menstruationszyklus und erklären dessen Steuerung durch das Zusammenspiel verschiedener Hormone.",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Steuerung und Regelung<br />\n<br />"
+            },
+            {
+              "text": "bewerten verschiedene Verhaltensweisen im Vorfeld und während der Schwangerschaft im Hinblick auf mögliche gesundheitliche Folgen für das Kind.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion | System  | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "erklären die Wirkungsweise verschiedener Methoden der Empfängnisregulation, um deren Vor- und Nachteile abzuwägen und so Familienplanung aktiv und verantwortlich gestalten zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion<br />\n<br />"
+            },
+            {
+              "text": "nutzen Wissen zu sexuell übertragbaren Erkrankungen und deren Übertragungswegen, um sich und andere vor einer Infektion zu schützen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "biologische Bedeutung der Sexualität (u. a. Fortpflanzung, Partnerbindung), Bedeutung von Sexualität für den einzelnen und in der Gesellschaft (z. B. Geschlechterrollen, Werbung, Musikvideos, Computerspiele)",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Geschlechtsidentität, sexuelle Orientierung, sexuelle Selbstbestimmung (u. a. Partnerwahl, Beziehungsgestaltung, Kontrollverlust durch Alkohol und andere Substanzen)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "Steuerung von Prozessen durch Hormone: Pubertät (physische und psychische Veränderungen), Menstruationszyklus",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "Schwangerschaft: Gesundheitsvorsorge, Auswirkungen der Lebensführung der Schwangeren auf das Ungeborene (u. a. Austausch von Stoffen durch die Plazenta)",
+              "competencies": "Gegenstandsbereiche: Reproduktion | System  | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "Empfängnisregulation: verschiedene Methoden mit gesundheitlichen und ethischen Aspekten",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "ungewollte Schwangerschaft, Schwangerschaftsabbruch, unerfüllter Kinderwunsch",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion<br />\n<br />"
+            },
+            {
+              "text": "Schutz vor sexuell übertragbaren Erkrankungen (u. a. HIV-Infektion)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "216235",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 4:",
+        "text": "Verhalten – genetisch bedingt und erlernt",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beobachten und vergleichen einfache Verhaltensweisen auch mithilfe von Attrappenversuchen, um sie als Ergebnis des Zusammenwirkens von inneren Faktoren und reaktionsauslösenden Reizen zu beschreiben.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "beurteilen auf der Grundlage von Daten aus Verhaltensbeobachtungen, ob eine Verhaltensweise v. a. auf genetisch bedingten oder erworbenen Anteilen beruht.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "planen Experimente zur Konditionierung, um die Beeinflussbarkeit von Verhaltensweisen durch Umwelteinflüsse zu ermitteln, und grenzen ggf. die Lernfähigkeit des Menschen von der anderer Lebewesen ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit | Entwicklung | Individualentwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Zusammenwirken von reaktionsauslösenden Reizen und inneren Faktoren z. B. beim Beutefangverhalten, Balzverhalten, bei der Brutpflege; Attrappenversuche",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "Hinweise für überwiegend genetisch bedingtes Verhalten, Kaspar-Hauser-Experimente, Prägung",
+              "competencies": "Gegenstandsbereiche: Information und Kommunikation | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "klassische Konditionierung, operante Konditionierung; ggf. Lernfähigkeit des Menschen, höhere Lernleistungen",
+              "competencies": "Gegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit | Entwicklung | Individualentwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "216244",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 5:",
+        "text": "Suchtgefahren und Gesundheit",
+        "estimate": 6
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erläutern die Grenze zwischen Genuss und Sucht, um sich eigener Suchtrisiken bewusst zu werden.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "erklären mithilfe von Modellen die Entstehung von Suchtverhalten, beschreiben Folgen für Betroffene und sind dadurch für die Gefahren einer Sucht sensibilisiert.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "erklären die Bedeutung von Lebenskompetenzen für eine starke Persönlichkeit, die die Anforderungen des Alltags bewältigen kann und ihre Zufriedenheit nicht von bestimmten Verhaltensweisen oder Substanzen abhängig macht, um Strategien für die eigene Persönlichkeitsentwicklung ableiten zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Entwicklung | Individualentwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Genuss, Gewöhnung, Missbrauch, Abhängigkeit; verschiedene Suchtformen (stoffgebundene (z. B. Alkoholsucht), nicht stoffgebundene (z. B. Mediensucht) Suchtformen)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "Suchtentstehung: physiologische und psychische Ursachen; physische, psychische und soziale Folgen",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Entwicklung | Individualentwicklung<br />\n<br />"
+            },
+            {
+              "text": "Lebenskompetenz: u. a. Selbstwahrnehmung, Problemlösefähigkeit, Beziehungsfähigkeit, Stressbewältigung",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Entwicklung | Individualentwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "216232",
+        "subject": "B",
+        "year": 8,
+        "section": "Lernbereich 6:",
+        "text": "Ökosysteme unter dem Einfluss des Menschen",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "charakterisieren die Veränderung eines ortsnahen Ökosystems im Lauf der Zeit, um die Entwicklung dieses Ökosystems unter dem Einfluss des Menschen von einer natürlichen Entwicklung zu unterscheiden.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: System  | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "beschreiben Eingriffe des Menschen in die Natur, erörtern Handlungsoptionen unter dem Aspekt einer nachhaltigen Entwicklung und treffen so begründete Entscheidungen für oder gegen diese Eingriffe.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System <br />\n<br />"
+            },
+            {
+              "text": "bewerten die Beeinflussung globaler Stoffströme unter dem Aspekt der nachhaltigen Entwicklung und beschreiben politische und persönliche Möglichkeiten, Einfluss auf diese Systeme zu nehmen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: System  | Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Veränderungen der Zusammensetzung von Ökosystemen: Sukzession; Wildnis, Kulturlandschaft; Artenkenntnis",
+              "competencies": "Gegenstandsbereiche: System  | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Eingriffe des Menschen in einem ortsnahen Ökosystem: z. B. Landwirtschaft, Forstwirtschaft, Flussregulierung, Zersiedelung, Renaturierung",
+              "competencies": "Gegenstandsbereiche: System  | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Konzept der nachhaltigen Entwicklung, ökologischer Fußabdruck, Möglichkeit zur Beeinflussung durch Konsumverhalten und politisches Engagement",
+              "competencies": "Gegenstandsbereiche: System  | Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

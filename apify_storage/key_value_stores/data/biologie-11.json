@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "49050",
+        "subject": "B",
+        "year": 11,
+        "section": "Lernbereich 1:",
+        "text": "Erkenntnisse gewinnen – kommunizieren – bewerten",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "stellen theoriebasiert zu biologischen Fragestellungen Hypothesen auf und planen ausgehend von diesen überwiegend selbständig naturwissenschaftliche Untersuchungen (z. B. Beobachtungen und Experimente).",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "setzen fachgemäße Arbeitsmethoden und -techniken bei der selbständigen, sicherheitsgerechten Durchführung qualitativer und quantitativer naturwissenschaftlicher Untersuchungen ein.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Validität von erhobenen oder recherchierten Daten, benennen Fehlerquellen und optimieren davon ausgehend das Untersuchungsdesign.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bereiten erhobene oder recherchierte Daten für die Auswertung auf, finden in diesen Trends, Strukturen und Beziehungen und verifizieren bzw. falsifizieren die zugrunde liegende Hypothese.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "verwenden Modelle zur Veranschaulichung und Erklärung von komplexen biologischen Prozessen und Phänomenen sowie zur Ableitung neuer Erkenntnisse.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "bewerten die Aussagekraft von Modellen und begründen die Auswahl eines Modells zur Erklärung des vorliegenden Sachverhalts.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "stellen Prozesse grafisch dar, um Wirkungszusammenhänge zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "überführen Sachverhalte in eine sach-, adressaten- und situationsgerechte Darstellungsform und reflektieren die Eignung dieser Darstellungsform.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "schätzen auch selbständig beschaffte Quellen im Hinblick auf ihre Eignung ein und nutzen sie, um Sachverhalte zu bewerten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            },
+            {
+              "text": "erklären die Beeinflussung der Entwicklung naturwissenschaftlichen Wissens durch soziale, kulturelle und technologische Aspekte sowie Eigenschaften naturwissenschaftlichen Wissens, um es sinnvoll in Argumentationsprozesse der persönlichen und gesellschaftlichen Entscheidungsfindung einzubringen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "entwerfen differenzierte Handlungsoptionen und beurteilen diese unter Nutzung fachwissenschaftlicher Erkenntnisse und auf der Basis eines Wertesystems. Dabei sind sie sich der prinzipiellen Möglichkeit von Dilemma-Situationen bewusst.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "naturwissenschaftlicher Erkenntnisweg (Fragestellung, Hypothese, naturwissenschaftliche Untersuchung planen und durchführen, Datenauswertung und ‑interpretation): u. a. Prinzip der Variablenkontrolle, Fehlerquellen (z. B. Ungenauigkeiten der Messgeräte, Ablesefehler, Fehler im Untersuchungsdesign (z. B. zu kleine Stichprobengröße, Labor- oder Freilandbedingungen))",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "fachgemäße Arbeitsmethoden und ‑techniken: u. a. kriteriengeleitetes Vergleichen, Beobachten; Anwendung von Sicherheitsvorschriften",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Eigenschaften und Grenzen von materiellen und ideellen Modellen: u. a. Schlüssel-Schloss-Modell, Optimalitätsmodell, Stammbaum, Kreuzungsschema; Vor- und Nachteile zur Erklärung eines bestimmten Sachverhalts",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Anfertigung und Auswertung verschiedener Darstellungsformen, Wechsel der Darstellungsform:  u. a. Darstellung von Prozessen und Wirkungszusammenhängen (Schemazeichnungen, Flussdiagramm, Concept-Maps, einfache Regelkreise), Interpolation von Messwerten, Stammbaumsymbolik, Karyogramm, Elektropherogramm, Kreuzungsschema, Kladogramm; Sach-, Adressaten- und Situationsbezug (Perspektivwechsel, Vorteile von Darstellungsformen)",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Quelle: v. a. populär- und fachwissenschaftliche Literatur",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Entwicklung und Eigenschaften naturwissenschaftlichen Wissens: u. a. Grundlagenforschung, angewandte Forschung; Vorläufigkeit und Subjektivität naturwissenschaftlichen Wissens, Wandel von wissenschaftlichen Methoden als Ursache für moralische Konfliktfelder, unterschiedliche Belastbarkeit von naturwissenschaftlichem Wissen, Abgrenzung von Hypothese, Theorie, Beweis",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "Entscheidungsfindung als systematischer und begründeter Prozess: u. a. Perspektivwechsel, Dilemma-Situation (z. B. medizinische und ethische Aspekte der Reproduktionsmedizin)",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49052",
+        "subject": "B",
+        "year": 11,
+        "section": "Lernbereich 2:",
+        "text": "Genetik und Gentechnik",
+        "estimate": 54
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49054",
+        "subject": "B",
+        "year": 11,
+        "section": "2.1",
+        "text": "Speicherung und Realisierung genetischer Information",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben ein Modell zum Bau der DNA und vergleichen es mit einem entsprechenden Modell zum Bau der RNA.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "leiten aus Basensequenzen der DNA Aminosäuresequenzen von Proteinen sowie aus der Aminosäuresequenz von Proteinen mögliche Basensequenzen für eine codierende DNA ab, indem sie den genetischen Code anwenden.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "beschreiben den Mechanismus der Bildung von Proteinen durch die Proteinbiosynthese, die eine Grundlage für die Aufrechterhaltung aller Lebensvorgänge ist.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Aufgaben und das Zusammenwirken von Proteinen bei der Ausbildung von Merkmalen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "molekularer Bau der DNA: u. a. komplementäre Basenpaarung durch Wasserstoffbrücken, Vergleich mit einem entsprechenden RNA-Modell",
+              "competencies": "Gegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "genetischer Code",
+              "competencies": "Gegenstandsbereiche: Information und Kommunikation | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Realisierung der genetischen Information (Proteinbiosynthese) am Beispiel der Eukaryoten: Gen (Intron, Exon), Transkription, Prozessierung, Translation",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Information und Kommunikation<br />\n<br />"
+            },
+            {
+              "text": "Bedeutung von Proteinen, Genwirkkette",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Stoff- und Energieumwandlung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49056",
+        "subject": "B",
+        "year": 11,
+        "section": "2.2",
+        "text": "Regulation der Genaktivität",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben mögliche Mechanismen zur Regulation der Genaktivität, um zu erklären, warum trotz gleicher genetischer Ausstattung von Zellen diese unterschiedliche Eigenschaften aufweisen können und so eine flexible Anpassung an Umweltbedingungen sowie eine Entwicklung und Spezialisierung in lebendigen Systemen möglich ist.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | Variabilität und Angepasstheit | System <br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Bedeutung von Stammzellen für die Forschung und für medizinische Anwendungen und bewerten deren Einsatz aus ethischer Sicht.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Regulation der Transkription am Beispiel des Operon-Modells",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Epigenetik: DNA-Methylierung, Inaktivierung des X-Chromosoms, ggf. weitere Beispiele",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Steuerung und Regelung | System <br />\n<br />"
+            },
+            {
+              "text": "embryonale und adulte Stammzellen als noch undifferenzierte Zellen",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | System  | Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49058",
+        "subject": "B",
+        "year": 11,
+        "section": "2.3",
+        "text": "Vervielfältigung genetischer Information",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "vergleichen den natürlichen Prozess der DNA-Replikation mit dem technischen Prozess der Polymerase-Kettenreaktion, um an diesem Beispiel Probleme und Lösungen in der technischen Umsetzung natürlicher Prozesse zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Reproduktion | Steuerung und Regelung<br />\n<br />"
+            },
+            {
+              "text": "beschreiben die Phasen des Zellzyklus und erklären seine biologische Bedeutung für Wachstum, Reparatur und ungeschlechtliche Reproduktion.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Reproduktion | Organisationsebenen | Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Mechanismus der semikonservativen Replikation, Mechanismus der Polymerase-Kettenreaktion (PCR)",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Steuerung und Regelung<br />\n<br />"
+            },
+            {
+              "text": "Zellzyklus mit Betrachtung der Chromosomenstruktur (Interphase (u. a. Synthesephase), Kernteilung (Mitosephasen)), biologische Bedeutung der mitotischen Zellteilung",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49060",
+        "subject": "B",
+        "year": 11,
+        "section": "2.4",
+        "text": "Neukombination und Veränderung genetischer Information",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben den Ablauf der Meiose bei Frau und Mann und erklären ihre Bedeutung für die geschlechtliche Fortpflanzung.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Reproduktion<br />\n<br />"
+            },
+            {
+              "text": "erklären den Zusammenhang zwischen genetischen Neukombinationsprozessen und der Evolution der bisherigen und zukünftigen Biodiversität.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Reproduktion | Information und Kommunikation | Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "leiten aus der Auswertung von Karyogrammen verschiedene Typen von Genommutationen ab, beschreiben deren Auswirkungen auf das Lebewesen und differenzieren zwischen einer Änderung des Genotyps, des Phänotyps und einer Krankheit.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Organisationsebenen | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "unterscheiden verschiedene durch mutagene Einflüsse ausgelöste Genmutationen und erläutern deren Auswirkung auf die Funktion des codierten Proteins, um für die Bedeutung des Schutzes vor mutagenen Einflüssen sensibilisiert zu sein.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />\nGegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "erläutern die prinzipielle Verfahrensweise zur künstlichen Neukombination von Erbanlagen sowie verschiedene Anwendungen von gentechnischen Verfahren und bewerten deren gesellschaftliche Auswirkungen.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "geschlechtliche Fortpflanzung: Keimzellenbildung durch Meiose (Reduktions- und Äquationsteilung), Neukombination des genetischen Materials, Bedeutung für die Biodiversitätsentwicklung und die Evolution",
+              "competencies": "Gegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Genommutationen: gonosomale Abweichung, Trisomie 21, Polyploidie bei Pflanzen; Auswertung von Karyogrammen; Ursachen (Non-Disjunction) und Folgen",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Information und Kommunikation | Variabilität und Angepasstheit | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Genmutationen: Austausch, Verlust oder Einschub von Nukleotiden; Ursachen von Genmutationen (Mutagene) und Auswirkungen auf die Proteinfunktion; Bedeutung von Reparaturenzymen; Bedeutung für die Evolution, somatische Mutation, Keimbahnmutation",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Information und Kommunikation | Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Neukombination von Erbanlagen mit molekulargenetischen Techniken: Hybridplasmide als Vektoren und deren Einbringung in Zellen",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "Anwendungen der Gentechnik: Beispiele aus Tier- und Pflanzenzucht, Lebensmittelproduktion oder Medikamentenherstellung; Gentherapie; ethische Aspekte",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49062",
+        "subject": "B",
+        "year": 11,
+        "section": "2.5",
+        "text": "Weitergabe genetischer Information",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "treffen Vorhersagen zur Genotypen- und Phänotypenverteilung bei Kreuzungen, indem sie Gesetzmäßigkeiten der Vererbung auf mono- und dihybride Erbgänge anwenden.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "beschreiben die Veränderung des Wissens und die Bedeutung neuer Erkenntnisse bei der Erklärung von biologischen Phänomenen am Beispiel der Aufdeckung von Gesetzmäßigkeiten der Vererbung.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "mono- und dihybrider Erbgang: Allelbegriff, dominante und rezessive Genwirkung (u. a. Rhesus-System), unvollständige Dominanz, Kodominanz (AB0-System); Mendelsche Regeln, statistischer Charakter",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "zellbiologische Grundlagen der Mendelschen Regeln",
+              "competencies": "Gegenstandsbereiche: Organisationsebenen | Variabilität und Angepasstheit<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49064",
+        "subject": "B",
+        "year": 11,
+        "section": "2.6",
+        "text": "Genetik menschlicher Erkrankungen und DNA-Analytik",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "analysieren Erbgänge mithilfe von Stammbäumen und treffen so Vorhersagen über Wahrscheinlichkeiten des Auftretens unterschiedlicher genetisch bedingter Krankheiten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "grenzen Methoden der genetischen Familienberatung gegeneinander ab, um ihre Vor- und Nachteile zu bewerten und in entsprechenden Entscheidungssituationen eine begründete Entscheidung auch aus ethischer Sicht treffen zu können.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Bedeutung der DNA-Analytik beim Menschen in medizinischen sowie gesellschaftlichen Kontexten. Sie analysieren und bewerten sie unter ethischen Gesichtspunkten.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />\nGegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit | Struktur und Funktion<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Erbgänge beim Menschen (autosomal dominant, autosomal rezessiv, X-chromosomal rezessiv), genetisch bedingte Krankheiten",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Methoden der genetischen Familienberatung: Stammbaumanalyse, Heterozygotentest, Präimplantationsdiagnostik, Pränataldiagnostik",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit<br />\n<br />"
+            },
+            {
+              "text": "DNA-Analytik beim Menschen: Gelelektrophorese, genetischer Fingerabdruck, DNA-Sequenzierung",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Struktur und Funktion<br />\n<br />"
+            },
+            {
+              "text": "ethische Gesichtspunkte: z. B. Feststellung der Identität, Massengentests, Gentests als Teil von Gesundheitsprüfungen",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49066",
+        "subject": "B",
+        "year": 11,
+        "section": "Lernbereich 3:",
+        "text": "Evolution",
+        "estimate": 18
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49068",
+        "subject": "B",
+        "year": 11,
+        "section": "3.1",
+        "text": "Chemische Evolution und Anfänge des Lebens",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "bewerten Modellversuche zur Entstehung von organischen Makromolekülen in der Frühzeit der Erde im Hinblick auf ihre Aussagekraft.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "leiten aus hypothetischen Umweltbedingungen der frühen Erde die Evolution verschiedener Ernährungsformen und Formen der Energiebereitstellung bei den ersten Organismen ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "erklären die Entstehung der eukaryotischen Zelle als Vereinigung funktionell verschiedener prokaryotischer Zellen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | System  | Struktur und Funktion | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "rekonstruieren durch Vergleich rezenter Modellorganismen den Übergang von der Einzelligkeit zur Vielzelligkeit.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "chemische Evolution: abiotische Entstehung organischer Moleküle, Bildung von Makromolekülen",
+              "competencies": "Gegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Evolution verschiedener Ernährungsformen (Heterotrophie, Photoautotrophie) und Formen der Energiefreisetzung (Gärung, Zellatmung) der ersten Lebewesen als Angepasstheit an die Umweltbedingungen",
+              "competencies": "Gegenstandsbereiche: Stoff- und Energieumwandlung | Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Entwicklung der Eukaryoten: Endosymbiontentheorie, Entwicklung zur Vielzelligkeit",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49040",
+        "subject": "B",
+        "year": 11,
+        "section": "3.2",
+        "text": "Evolutionsforschung",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erstellen für ausgewählte Gruppen von Lebewesen ein Verwandtschaftsdiagramm, indem sie molekulare Merkmale vergleichen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "vergleichen unterschiedliche Ansätze, mit denen Lebewesen systematisiert wurden und werden, um deren Aussagekraft zu beurteilen.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Homologie molekularer Merkmale: Basensequenzvergleich, Aminosäuresequenzvergleich",
+              "competencies": "Gegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Rekonstruktion der Stammesgeschichte der Organismen, natürliches System als Einteilung der Lebewesen aufgrund ihrer Verwandtschaft",
+              "competencies": "Gegenstandsbereiche: System  | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Vergleichen, Ordnen und Systematisieren der Lebewesen als fachgemäße Arbeitsweisen an ausgewählten Beispielen, Erstellen eines Verwandtschaftsdiagramms, morphologischer Artbegriff",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49042",
+        "subject": "B",
+        "year": 11,
+        "section": "3.3",
+        "text": "Mechanismen der Evolution",
+        "estimate": null
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "bewerten die Aussagekraft verschiedener Erklärungsansätze zu Mechanismen der Evolution und überprüfen ihre Vereinbarkeit mit den heute bekannten Grundlagen der Genetik.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "wenden die erweiterte Evolutionstheorie an, um die Entstehung der Biodiversität sowie die Entstehung von Arten als Zusammenspiel der Evolutionsfaktoren zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "erklären wechselseitige Angepasstheiten zwischen interagierenden artfremden Lebewesen als Ergebnis einer Koevolution.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Erklärungsansätze von Lamarck und Darwin",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "erweiterte Evolutionstheorie als Zusammenspiel der Evolutionsfaktoren: Allelfrequenzänderung in einer Population durch Mutation und Rekombination, natürliche Selektion und Selektionsformen (stabilisierend, transformierend, disruptiv), Gendrift; Fitness",
+              "competencies": "Gegenstandsbereiche: Reproduktion | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Artbildung als Folge von geographischer und ökologischer Isolation, reproduktive Isolation und biologischer Artbegriff, Problematik des Artbegriffs",
+              "competencies": "Gegenstandsbereiche: Steuerung und Regelung | Variabilität und Angepasstheit | Struktur und Funktion | Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Koevolution: mutualistisch, antagonistisch",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49044",
+        "subject": "B",
+        "year": 11,
+        "section": "Lernbereich 4:",
+        "text": "Verhaltensökologie – Evolution und Angepasstheit von Verhalten",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erklären, warum verschiedene Verhaltensweisen auftreten, indem sie den Einfluss von Verhaltensweisen auf die Gesamtfitness des Lebewesens beurteilen.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "wenden Methoden der verhaltensökologischen Forschung an, um Verhaltensweisen zum Überleben des Individuums bei Kooperation, Aggression und Fortpflanzung zu analysieren und deren Bedeutung für die Weitergabe der genetischen Information zu erklären.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Verhaltensweisen als Ergebnis der Evolution, direkte und indirekte Fitness",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "verhaltensökologische Forschung: Kosten-Nutzen-Analyse, Optimalitätsmodell, ggf. vergleichende Methode",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />\nGegenstandsbereiche: Reproduktion | Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Überleben des Individuums: energieeffizientes Verhalten, Nahrungserwerb, Habitatwahl, ggf. weitere",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Kooperation und Altruismus: bei Nahrungserwerb, Verteidigung, Jungenaufzucht, ggf. weitere",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Aggression: Intensitätsstufen (Drohen, Kommentkampf, Beschädigungskampf), Aggressionskontrolle (Rangordnung, Territorialität, ggf. weitere)",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            },
+            {
+              "text": "Fortpflanzung: Partnerwahl (Balz, Handicap-Prinzip), Paarungssysteme (Monogamie, Polygamie), Elternaufwand (Brutpflege, Eltern-Kind-Konflikt)",
+              "competencies": "Gegenstandsbereiche: Variabilität und Angepasstheit | Entwicklung | Individualentwicklung | evolutionäre Entwicklung<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

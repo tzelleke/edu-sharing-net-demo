@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "215560",
+        "subject": "M",
+        "year": 8,
+        "section": "1",
+        "text": "Funktion und Term",
+        "estimate": 8
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erfassen und beschreiben funktionale Zusammenhänge (z. B. Stromtarife, Temperaturverläufe, Bevölkerungsentwicklung) mit Tabellen, Diagrammen und, wo möglich, mit Termen, auch unter Verwendung eines Tabellenkalkulationsprogramms.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "verstehen eine Funktion als eindeutige Zuordnung und grenzen die zugehörigen Fachbegriffe (z. B. Funktionsterm, Graph, Definitionsmenge, Wertemenge) voneinander ab. Sie erkennen Funktionen als solche und unterscheiden diese begründet von nicht eindeutigen Zuordnungen. Graphen von Funktionen, denen Terme zugrunde liegen, stellen sie mithilfe einer geeigneten Software (z. B. Funktionenplotter) dar.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "bestimmen die Koordinaten der Schnittpunkte eines Funktionsgraphen mit den Koordinatenachsen und die Lage von Punkten bezüglich des Funktionsgraphen graphisch und, falls möglich, rechnerisch. In einfachen Fällen beschreiben sie, in welcher Weise sich der Funktionswert verändert, wenn sich der Wert des Funktionsarguments verändert.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215539",
+        "subject": "M",
+        "year": 8,
+        "section": "2",
+        "text": "Lineare Funktionen",
+        "estimate": 16
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "interpretieren Funktionsgleichungen der Form y = m ⋅ x + t als Gleichungen von Geraden und erläutern die Bedeutung der Parameter m und t, auch unter Verwendung einer dynamischen Mathematiksoftware. Sie zeichnen die Graphen linearer Funktionen und ermitteln umgekehrt anhand der Graphen solcher Funktionen die zugehörigen Werte der Parameter.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "stellen rechnerisch Geradengleichungen auf, bestimmen die Nullstellen linearer Funktionen und ermitteln die Koordinaten des Schnittpunkts zweier Geraden.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "nutzen lineare Funktionen und deren Graphen in Sachzusammenhängen; insbesondere stellen sie passende Funktionen auf und interpretieren Graphen sachgerecht.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "lösen lineare Ungleichungen graphisch und rechnerisch und stellen das Ergebnis in Intervallschreibweise dar.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "verstehen, dass der Spezialfall einer linearen Funktion mit einer Funktionsgleichung der Form y = a ⋅ x als Zuordnung zweier Größen aufgefasst werden kann, die direkt proportional zueinander sind. Diesen Zusammenhang zwischen den beiden Größen erläutern sie an der zugehörigen Ursprungsgeraden und erkennen zueinander direkt proportionale Größen als solche, u. a. im Kontext naturwissenschaftlicher Fragestellungen.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215563",
+        "subject": "M",
+        "year": 8,
+        "section": "3",
+        "text": "Elementare gebrochen-rationale Funktionen",
+        "estimate": 13
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "geben für gebrochen-rationale Funktionen der Form  die maximale Definitionsmenge an, bestimmen die Schnittpunkte des Graphen mit den Koordinatenachsen und beschreiben den Einfluss einer Änderung der Werte der Parameter b und c auf den Verlauf des Graphen. Zur Untersuchung und Veranschaulichung nutzen sie auch eine dynamische Mathematiksoftware.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "zeichnen den Graphen einer gebrochen-rationalen Funktion der Form  einschließlich seiner Asymptoten und ermitteln umgekehrt anhand des Graphen einer solchen Funktion die zugehörigen Werte der Parameter.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "verstehen, dass der Spezialfall einer gebrochen-rationalen Funktion mit einer Funktionsgleichung der Form  als Zuordnung zweier Größen aufgefasst werden kann, die indirekt proportional zueinander sind. Diesen Zusammenhang zwischen den beiden Größen erläutern sie am zugehörigen Graphen und erkennen zueinander indirekt proportionale Größen als solche, u. a. im Kontext naturwissenschaftlicher Fragestellungen.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215546",
+        "subject": "M",
+        "year": 8,
+        "section": "4",
+        "text": "Bruchterme und Bruchgleichungen",
+        "estimate": 13
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erfassen die Struktur von Bruchtermen angemessener Komplexität und erweitern und kürzen diese, auch unter Anwendung des Distributivgesetzes. Sie erläutern die Verfahren unter Einbeziehung von Analogiebetrachtungen hinsichtlich ihrer in den Jahrgangsstufen 6 und 7 erworbenen Kenntnisse.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen<br />\n<br />"
+            },
+            {
+              "text": "bringen Bruchterme angemessener Komplexität auf einen gemeinsamen Nenner, um diese zu addieren und zu subtrahieren. Sie multiplizieren und dividieren Bruchterme angemessener Komplexität. Falls möglich, vereinfachen sie die dabei entstehenden Terme.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen<br />\n<br />"
+            },
+            {
+              "text": "machen die Rechengesetze für Potenzen mit ganzzahligen Exponenten plausibel und wenden diese in einfachen Fällen an.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen<br />\n<br />"
+            },
+            {
+              "text": "lösen auf der Grundlage eines zunehmend abstrahierenden Verständnisses von Termstrukturen Bruchgleichungen angemessener Komplexität rechnerisch und interpretieren in einfachen Fällen Bruchgleichungen als Schnittprobleme von Funktionsgraphen.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "lösen Formeln – insbesondere aus den Naturwissenschaften – nach einer Variablen auf.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215555",
+        "subject": "M",
+        "year": 8,
+        "section": "5",
+        "text": "Laplace-Experimente",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "grenzen Zufallsexperimente von deterministischen Vorgängen ab und beschreiben Zufallsexperimente unter Verwendung von Fachbegriffen wie Ergebnis, Ergebnismenge, Ereignis und Gegenereignis.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "bestimmen relative Häufigkeiten von Ereignissen auch selbst durchgeführter Zufallsexperimente. Zur Auswertung und Simulation von Zufallsexperimenten verwenden sie ein Tabellenkalkulationsprogramm, wobei sie absoluten von relativem Zellbezug unterscheiden. Sie erläutern die Aussage des empirischen Gesetzes der großen Zahlen anhand konkreter Beispiele und nutzen entsprechend relative Häufigkeiten als sinnvolle Schätzwerte für Wahrscheinlichkeiten.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "grenzen anhand von Beispielen Laplace-Experimente von Zufallsexperimenten ab, die sich nicht mithilfe der Annahme der Gleichwahrscheinlichkeit aller Elementarereignisse tragfähig modellieren lassen.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "berechnen Laplace-Wahrscheinlichkeiten und nutzen dabei auch das Zählprinzip und Baumdiagramme.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215550",
+        "subject": "M",
+        "year": 8,
+        "section": "6",
+        "text": "Lineare Gleichungssysteme",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben Sachzusammenhänge mithilfe eines Systems linearer Gleichungen und erläutern ihre Vorgehensweise.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | kommunizieren<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "lösen lineare Gleichungssysteme mit zwei Unbekannten graphisch und z. B. mithilfe des Einsetzungsverfahrens rechnerisch; sie sind sich des algorithmischen Charakters des rechnerischen Verfahrens bewusst und begründen, dass bei den einzelnen Umformungen die Lösungsmenge des Gleichungssystems erhalten bleibt. Sie vergleichen die Lösungsverfahren, v. a. hinsichtlich ihrer Effektivität, und interpretieren ggf. ihre Ergebnisse im Sachzusammenhang.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "formulieren und veranschaulichen Aussagen zur Lösbarkeit und zur Lösungsvielfalt linearer Gleichungssysteme mit zwei Unbekannten.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Zahlen und Operationen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "215551",
+        "subject": "M",
+        "year": 8,
+        "section": "7",
+        "text": "Kreis und Zylinder",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "machen die Struktur der Formeln für Umfang bzw. Flächeninhalt eines Kreises plausibel und bestimmen, z. B. durch Messen, einen Näherungswert für die Kreiszahl π. Sie interpretieren die Flächeninhaltsformel als nicht lineare Zuordnung und wenden die Formeln bei innermathematischen Fragestellungen (auch zu einfachen Kreisteilen) sowie in Sachsituationen an.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "skizzieren Schrägbilder von geraden Prismen und geraden Kreiszylindern. Sie beschreiben diese Körper sowie ihre Grund- und Mantelflächen mit Fachbegriffen und zeichnen zugehörige Netze. Letztere verwenden sie, um die Formel zur Bestimmung des Oberflächeninhalts eines geraden Kreiszylinders zu begründen.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "begründen, dass die Volumina gerader Prismen unabhängig von der Form ihrer Grundfläche gleich dem Produkt aus Grundflächeninhalt und Höhe sind, und machen die Formel zur Bestimmung des Volumens eines geraden Kreiszylinders plausibel, indem sie diesen Körper als Grenzfall von geraden Prismen betrachten.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "nutzen auch in Sachzusammenhängen flexibel die bisher bekannten Volumen- und Oberflächeninhaltsformeln von Körpern. Bei der Übertragung der Sachsituation in ein mathematisches Modell treffen sie situationsgerecht sinnvolle Annahmen und recherchieren ggf. zusätzlich benötigte Informationen sorgfältig (z. B. im Internet). Sie dokumentieren und präsentieren ihre Lösungswege in jeweils angemessener Form, fachsprachlich korrekt sowie unter Verwendung geeigneter Skizzen.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

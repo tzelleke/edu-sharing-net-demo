@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "49901",
+        "subject": "Ph",
+        "year": 12,
+        "section": "Lernbereich 1:",
+        "text": "Wandel des physikalischen Weltbilds im 20. Jahrhundert",
+        "estimate": 26
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49903",
+        "subject": "Ph",
+        "year": 12,
+        "section": "1.1",
+        "text": "Spezielle Relativitätstheorie und Hochenergiephysik",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "stellen die wesentlichen Grundaussagen der speziellen Relativitätstheorie dar, indem sie anhand vorgegebener Fachtexte Gedankenexperimente nachvollziehen und sachgerecht wiedergeben, aus denen sich die quantitative Beschreibung der Zeitdilatation sowie des relativistischen Impulses ergeben.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "identifizieren in Sachkontexten relativistische Effekte und beschreiben die Auswirkungen der speziellen Relativitätstheorie auf die Vorstellungen von Raum und Zeit. Für theoretische Modellierungen, insbesondere im Zusammenhang mit Fragestellungen der Hochenergiephysik, wählen sie problembezogen geeignete Größengleichungen aus.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "recherchieren zur speziellen Relativitätstheorie (z. B. experimentelle Belege relativistischer Effekte) oder zum Standardmodell (z. B. Teilchenfamilien, Austauschteilchen und fundamentale Wechselwirkungen); sie ordnen die dabei gewonnenen Ergebnisse, nutzen sie für weiterführende fachliche Schlussfolgerungen und binden sie in Dokumentationen oder Präsentationen sach- und adressatengerecht ein. Hierbei verwenden sie fachsprachlich korrekte Formulierungen und wählen Medien sowie fachtypische Darstellungsformen geeignet aus.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Grundaussagen der speziellen Relativitätstheorie: Einstein’sche Postulate, Gedankenexperiment zur Zeitdilatation, Hinweis auf Längenkontraktion, γ‑Faktor, Auswirkungen auf die Vorstellungen von Raum und Zeit",
+              "competencies": ""
+            },
+            {
+              "text": "Gedankenexperiment zum relativistischen Impuls, relativistische Energie, relativistische Energie‑Impuls-Beziehung, Energie und Impuls des Photons",
+              "competencies": ""
+            },
+            {
+              "text": "Einblick in die Hochenergiephysik und das Standardmodell: Hinweis auf Streuexperimente, relativistische Beschreibung der Bewegung geladener Teilchen in homogenen elektrischen Längsfeldern und auf Kreisbahnen in homogenen Magnetfeldern, Grundaussagen des Standardmodells",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49905",
+        "subject": "Ph",
+        "year": 12,
+        "section": "1.2",
+        "text": "Eigenschaften von Quantenobjekten",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "vergleichen im Zusammenhang mit dem Doppelspaltexperiment das Verhalten von Quantenobjekten mit dem von klassischen Teilchen und nutzen zur Veranschaulichung Simulationen des Experiments. Sie erläutern für Quantenobjekte insbesondere die statistische Verteilung der Einzelmesswerte sowie die Komplementarität von Interferenzerscheinung und „Welcher‑Weg-Information“.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beschreiben den Aufbau der Elektronenbeugungsröhre und erklären das Interferenzbild mithilfe der Quantenobjekteigenschaften des Elektrons. Im Rahmen der Auswertung experimenteller Daten schließen sie auf die indirekte Proportionalität von Impuls und Wellenlänge der Elektronen mit der Planck-Konstante als Proportionalitätskonstante. Sie diskutieren eine eventuelle Abweichung des experimentellen Wertes vom Literaturwert für diese Naturkonstante.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "beschreiben die Bedeutung des Messprozesses im Rahmen der Quantenphysik, interpretieren die Unbestimmtheitsrelation von Heisenberg mit der Komplementarität von Ort und Impuls und verdeutlichen anhand dieser Erkenntnisse den Wandel des physikalischen Weltbilds im 20. Jahrhundert.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen quantitative Betrachtungen mithilfe der De‑Broglie-Wellenlänge durch: Sie werten Daten von simulierten oder real durchgeführten Interferenzexperimenten (z. B. mit Molekülen) aus und diskutieren anhand von Größengleichungen Zusammenhänge zwischen Versuchsparametern und Versuchsergebnissen. Aufgrund quantitativer Betrachtungen erkennen sie auch die Bedeutung der De‑Broglie-Wellenlänge von bei Streuexperimenten verwendeten Teilchen zur Strukturuntersuchung der Materie.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Simulation des Doppelspaltexperiments mit Elektronen, Wahrscheinlichkeitsaussagen und Messergebnisse",
+              "competencies": ""
+            },
+            {
+              "text": "Elektronenbeugungsröhre, De‑Broglie-Wellenlänge",
+              "competencies": ""
+            },
+            {
+              "text": "Messprozess, Unbestimmtheitsrelation von Heisenberg",
+              "competencies": ""
+            },
+            {
+              "text": "quantitative Betrachtungen mithilfe der De‑Broglie-Wellenlänge: Interferenzexperimente mit Quantenobjekten, Streuexperimente zur Strukturuntersuchung der Materie",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49908",
+        "subject": "Ph",
+        "year": 12,
+        "section": "Lernbereich 2:",
+        "text": "Ein Atommodell der Quantenphysik",
+        "estimate": 14
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "entwickeln mit dem eindimensionalen Potentialtopf ein einfaches quantenphysikalisches Atommodell. Dazu leiten sie, ausgehend von der Betrachtung stehender Wellen, diskrete Energiewerte theoretisch her, berücksichtigen die Quantenobjekteigenschaften des Elektrons, skizzieren Wellenfunktionen sowie Wahrscheinlichkeitsdichten und führen mithilfe des Modells quantitative Betrachtungen durch.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "veranschaulichen mithilfe einer zweidimensionalen mechanischen Analogie den Übergang von eindimensionalen zu dreidimensionalen Orbitalen und die damit verbundenen Änderungen bezüglich der Anzahl und der Bedeutung von Quantenzahlen. Sie erklären Orbital-Darstellungen mithilfe der Quantenobjekteigenschaften des Elektrons.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "verwenden Energieniveauschemata, um die Emission und Absorption von Licht zu erklären und führen in diesem Zusammenhang quantitative Betrachtungen mithilfe des Energieerhaltungssatzes durch. Die stimulierte Emission von Licht erläutern sie anhand des grundlegenden Aufbaus und des Funktionsprinzips eines Lasers.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern Aufbau, Durchführung und Auswertung des Franck‑Hertz-Versuchs und erkennen seine Bedeutung als Prüfstein für die Existenz diskreter Energiewerte der Atomhülle. Die Anregung von Atomen durch Elektronenstöße unterscheiden sie von der Anregung durch Photonenabsorption.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "überprüfen vorgegebene diskrete Energiewerte des Wasserstoffatoms durch experimentelle Auswertung des Wasserstoffspektrums. Sie reflektieren anhand dieser Werte Nutzen und Grenzen des eindimensionalen Potentialtopfmodells und zeigen Aspekte auf, die ein quantenphysikalisches Modell für das Wasserstoffatom berücksichtigen sollte.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Emission und Absorption von Licht atomarer Gase, Zusammenhang zwischen Linienspektren und Energieniveauschema",
+              "competencies": ""
+            },
+            {
+              "text": "Elektron im eindimensionalen Potentialtopf mit unendlich hohen Wänden: eindimensionale stehende Wellen, diskrete Energiewerte, Wellenfunktionen und Nachweiswahrscheinlichkeiten für das Elektron, eindimensionale Orbitale",
+              "competencies": ""
+            },
+            {
+              "text": "Hinführung zu einem dreidimensionalen quantenphysikalischen Atommodell von Wasserstoff, Orbitale des Wasserstoffatoms als Darstellungen der Nachweiswahrscheinlichkeiten für das Elektron, Quantenzahlen, Mitteilung der diskreten Energiewerte des Wasserstoffatoms und experimentelle Überprüfung anhand der Spektrallinien",
+              "competencies": ""
+            },
+            {
+              "text": "Ausblick auf Mehrelektronensysteme, Pauli‑Prinzip",
+              "competencies": ""
+            },
+            {
+              "text": "Energieaufnahme durch Stoßanregung (Franck‑Hertz-Versuch)",
+              "competencies": ""
+            },
+            {
+              "text": "Funktionsprinzip eines Lasers",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "49911",
+        "subject": "Ph",
+        "year": 12,
+        "section": "Lernbereich 3:",
+        "text": "Kernphysik",
+        "estimate": 23
+      },
+      "content": []
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49914",
+        "subject": "Ph",
+        "year": 12,
+        "section": "3.1",
+        "text": "Ein einfaches Kernmodell",
+        "estimate": 11
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "entwickeln mit dem Potentialtopf ein einfaches quantenphysikalisches Kernmodell in Analogie zum Potentialtopfmodell der Atomphysik. Sie berücksichtigen dabei die Eigenschaften von Kernkraft und elektrischer Kraft sowie die Quantenobjekteigenschaften der Nukleonen und das Pauli-Prinzip.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Entstehung von α- und β‑Strahlung (β-- und β+‑Strahlung) mit dem Potentialtopfmodell des Kerns. Insbesondere erklären sie den α‑Zerfall quantenphysikalisch mithilfe des Tunneleffekts, die β‑Zerfälle auch mit dem Quark-Modell.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "führen quantitative Betrachtungen zur mittleren Bindungsenergie je Nukleon und mithilfe von Energiebilanzen zu Zerfällen und künstlichen Kernreaktionen durch. Sie interpretieren die Energiespektren von α- und β‑Zerfällen unter Verwendung von Erhaltungssätzen und berücksichtigen im Falle von angeregten Tochterkernen als Folgeprozess der Zerfälle die Emission von γ‑Quanten.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Eigenschaften der Kernkraft, Massendefekt und mittlere Bindungsenergie je Nukleon in Abhängigkeit von der Nukleonenzahl",
+              "competencies": ""
+            },
+            {
+              "text": "Potentialtopfmodell des Kerns: Entstehung von α-, β-- und β+‑Strahlung, Hinweis auf den Tunneleffekt beim α‑Zerfall, natürliche Zerfallsreihen, Nuklidkarte",
+              "competencies": ""
+            },
+            {
+              "text": "Energiebilanzen bei Zerfällen und künstlichen Kernreaktionen, Stabilität von Atomkernen, Entstehung von γ‑Strahlung, Energiespektren der radioaktiven Strahlungsarten, Impulsbilanz beim α‑Zerfall",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "heading": {
+        "id": "49917",
+        "subject": "Ph",
+        "year": 12,
+        "section": "3.2",
+        "text": "Kernphysik in Experimenten und Anwendungen",
+        "estimate": 12
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben im Zusammenhang mit den Eigenschaften radioaktiver Strahlungsarten einfache Experimente zur Unterscheidung der Strahlungsarten.",
+              "competencies": "Prozessbezogene Kompetenzen: Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "leiten anhand experimenteller Daten zum radioaktiven Zerfall das Zerfallsgesetz her und diskutieren Abweichungen der Daten von der Zerfallskurve. Zur quantitativen Beschreibung von Anwendungen des radioaktiven Zerfalls wählen sie problembezogen geeignete Größengleichungen aus und interpretieren ihre Ergebnisse im jeweiligen Sachkontext.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | Erkenntnisse gewinnen<br />\n<br />"
+            },
+            {
+              "text": "formulieren Bewertungen zu situationsbezogenen Fragestellungen des Strahlenschutzes auf der Grundlage physikalischer Kriterien (z. B. Eigenschaften radioaktiver Strahlungsarten, Dosis-Werte, Strahlenschutzmaßnahmen) und außerfachlicher Aspekte.",
+              "competencies": "Prozessbezogene Kompetenzen: bewerten<br />\n<br />"
+            },
+            {
+              "text": "beschreiben den prinzipiellen Aufbau eines Kernreaktors und erklären seine grundlegende Funktionsweise. Vor dem Hintergrund unterschiedlicher Meinungen in der Gesellschaft über Chancen und Risiken der Kernenergienutzung nehmen sie einen eigenen begründeten Standpunkt zu diesem Thema ein. Hierfür wählen sie Informationen aus verschiedenen, auch selbständig recherchierten Quellen aus und bewerten diese.",
+              "competencies": "Prozessbezogene Kompetenzen: kommunizieren | bewerten<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Experimente zur Unterscheidung von α-, β- und γ‑Strahlung",
+              "competencies": ""
+            },
+            {
+              "text": "Zerfallsgesetz",
+              "competencies": ""
+            },
+            {
+              "text": "Anwendung des radioaktiven Zerfalls zur Altersbestimmung und in der Medizin",
+              "competencies": ""
+            },
+            {
+              "text": "Strahlenbelastung des Menschen durch natürliche und künstliche Strahlung, Maßnahmen zum Strahlenschutz",
+              "competencies": ""
+            },
+            {
+              "text": "Kernenergietechnik: prinzipieller Aufbau eines Kernreaktors, Kernspaltung und Kettenreaktion, Einblick in den aktuellen Forschungsstand zum Fusionsreaktor, Chancen und Risiken der Kernenergienutzung",
+              "competencies": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

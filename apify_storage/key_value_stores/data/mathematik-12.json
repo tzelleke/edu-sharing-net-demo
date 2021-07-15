@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "50170",
+        "subject": "M",
+        "year": 12,
+        "section": "1",
+        "text": "Flächeninhalt und bestimmtes Integral",
+        "estimate": 24
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "verstehen, dass das bestimmte Integral eine Flächenbilanz beschreibt, und nutzen dies für Argumentationen. Sie interpretieren das bestimmte Integral als Gesamtänderung einer Größe, wenn die Integrandenfunktion die lokale Änderungsrate dieser Größe beschreibt (z. B. geänderte Füllmenge nach Zu- und Abfluss).",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "definieren den Begriff Integralfunktion und beschreiben seine Bedeutung; sie begründen den Hauptsatz der Differential- und Integralrechnung mithilfe anschaulicher Überlegungen und erläutern, dass Differenzieren und Integrieren Umkehroperationen sind.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "ermitteln mithilfe von Stammfunktionen die Werte von bestimmten Integralen sowie integralfreie Darstellungen von Integralfunktionen und grenzen die Begriffe Integralfunktion und Stammfunktion voneinander ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "berechnen Inhalte von Flächen, die durch Funktionsgraphen begrenzt sind, mithilfe der Integralrechnung und erläutern ihr Vorgehen.",
+              "competencies": "Prozessbezogene Kompetenzen: Probleme lösen | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen<br />\n<br />"
+            },
+            {
+              "text": "schließen vom Graphen einer Funktion auf den Verlauf des Graphen einer zugehörigen Integralfunktion und vom Graphen einer Integralfunktion auf den Graphen der zugehörigen Integrandenfunktion.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Darstellungen verwenden | kommunizieren<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "bestimmen mithilfe der Integralrechnung das Volumen eines Körpers, der durch Rotation um die Abszissenachse entsteht.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen<br />\n<br />"
+            },
+            {
+              "text": "ermitteln unbestimmte Integrale unter Anwendung der Faktor- und Summenregel für Integrale. Darüber hinaus erkennen sie die Struktur von Funktionstermen, die die Form  oder f '(x) ⋅ ef(x) haben, und integrieren entsprechende Funktionen sowie Funktionen mit Termen der Form f(ax + b), wenn eine Stammfunktion von f bekannt ist.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50171",
+        "subject": "M",
+        "year": 12,
+        "section": "2",
+        "text": "Anwendungen der Differential- und Integralrechnung",
+        "estimate": 20
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "analysieren Funktionen, auch mit Parametern, hinsichtlich ihrer Eigenschaften durch flexible und reflektierte Nutzung der Methoden der Differential- und Integralrechnung, auch unter Verwendung einer dynamischen Mathematiksoftware. Ergebnisse interpretieren sie insbesondere in Sachzusammenhängen, Lösungswege dokumentieren sie nachvollziehbar und formal korrekt.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            },
+            {
+              "text": "wenden die Methoden der Differential- und Integralrechnung im Rahmen der Lösung inner- und außermathematischer Problemstellungen an und argumentieren mit ihnen. Insbesondere lösen sie Extremwertprobleme und bestimmen aus gegebenen Bedingungen die Werte von Parametern eines Funktionsterms.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | modellieren | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50172",
+        "subject": "M",
+        "year": 12,
+        "section": "3",
+        "text": "Einseitiger Signifikanztest (bei als binomialverteilt angenommenen Merkmalen)",
+        "estimate": 8
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "beschreiben anhand eines Beispiels das grundsätzliche Vorgehen bei einem einseitigen Signifikanztest und grenzen dabei auch die Statistik von der Wahrscheinlichkeitsrechnung ab. Sie erläutern, inwiefern die Zielsetzung des Tests die Wahl der Nullhypothese beeinflusst.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | modellieren | kommunizieren<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "berechnen für einseitige Signifikanztests unter Annahme der Gültigkeit der Nullhypothese die Wahrscheinlichkeit dafür, dass diese verworfen wird, sowie unter Annahme der Gültigkeit einer konkreten alternativen Hypothese die Wahrscheinlichkeit dafür, dass die Nullhypothese nicht abgelehnt wird.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "bestimmen bei gegebenem Signifikanzniveau den Ablehnungsbereich eines einseitigen Signifikanztests.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "interpretieren Ergebnisse einseitiger Signifikanztests im Sachzusammenhang richtig und widerlegen Fehlinterpretationen; sie erläutern insbesondere, dass der Signifikanztest keine Aussage über die Wahrscheinlichkeit der Gültigkeit der Nullhypothese zulässt.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | kommunizieren<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50173",
+        "subject": "M",
+        "year": 12,
+        "section": "4",
+        "text": "Normalverteilung",
+        "estimate": 10
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "begründen die Bedeutung der Normalverteilung damit, dass die Erhebung von Merkmalen aus unterschiedlichsten Bereichen (z. B. Intelligenzquotient, zufällige Abweichungen vom Sollwert bei Werkstücken) sehr häufig zu glockenförmigen Histogrammen führt.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | modellieren | Darstellungen verwenden<br />\n<br />\nGegenstandsbereiche: Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "erläutern die Eigenschaften der Gauß’schen Funktion sowie die Bedeutung der Parameter μ und σ in deren Funktionsgleichung für den Verlauf des Graphen, z. B. mithilfe einer dynamischen Mathematiksoftware. Liegt eine Datenerhebung eines (annähernd) normalverteilten Merkmals vor, stellen sie den Zusammenhang zwischen dem Parameter μ der Gauß’schen Funktion und dem Mittelwert der erhobenen Daten her.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang | Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "bestimmen mithilfe der Integralfunktion der Gauß’schen Funktion die Wahrscheinlichkeit, dass die Werte der Zufallsgröße in einem bestimmten Intervall liegen. Sie beschreiben den Verlauf und die charakteristischen Eigenschaften des Graphen der Integralfunktion der Gauß’schen Funktion.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Muster und Strukturen/Funktionaler Zusammenhang | Daten und Zufall<br />\n<br />"
+            },
+            {
+              "text": "schätzen mithilfe der Sigma-Regeln Wahrscheinlichkeiten ab.",
+              "competencies": "Prozessbezogene Kompetenzen: Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Muster und Strukturen/Funktionaler Zusammenhang | Daten und Zufall<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "50174",
+        "subject": "M",
+        "year": 12,
+        "section": "5",
+        "text": "Geraden und Ebenen im Raum",
+        "estimate": 22
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen und Inhalte",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "stellen die Gleichungen von Geraden und Ebenen in Parameterform auf und deuten die lineare Abhängigkeit bzw. lineare Unabhängigkeit von Vektoren anschaulich. Sie stellen, falls möglich, einen Vektor als Linearkombination anderer Vektoren dar.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "stellen die Gleichungen von Ebenen in Normalenform auf und ziehen in besonderen Fällen aus der Ebenengleichung Rückschlüsse auf die Lage der Ebene im Koordinatensystem.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "ermitteln systematisch und begründet die gegenseitige Lage von Geraden, von Ebenen sowie von Geraden und Ebenen zueinander und berechnen ggf. Schnittpunkte bzw. Schnittgeraden sowie die Größe von Schnittwinkeln.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | Darstellungen verwenden | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Raum und Form<br />\n<br />"
+            },
+            {
+              "text": "erläutern, welche Vor- und Nachteile die unterschiedlichen Darstellungsformen von Ebenengleichungen, z. B. im Zusammenhang mit Lagebetrachtungen und Abstandsberechnungen, haben, und bestimmen den Abstand zweier Punkte, eines Punkts von einer Geraden oder einer Ebene, zweier Geraden oder zweier Ebenen sowie einer Geraden von einer Ebene, ggf. auch unter Verwendung der Hesse’schen Normalenform.",
+              "competencies": "Prozessbezogene Kompetenzen: Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen<br />\n<br />"
+            },
+            {
+              "text": "wenden bei Berechnungen an geometrischen Objekten – in Sachzusammenhängen auf der Grundlage einer geeigneten Modellierung – Methoden aus der analytischen Geometrie sowie grundlegende Konzepte und Strategien aus der Mittelstufe flexibel und situationsgerecht an und diskutieren unterschiedliche Lösungswege vergleichend.",
+              "competencies": "Prozessbezogene Kompetenzen: argumentieren | Probleme lösen | modellieren | Darstellungen verwenden | kommunizieren | Mit symbolischen, formalen und technischen Elementen der Mathematik umgehen<br />\n<br />\nGegenstandsbereiche: Größen und Messen | Raum und Form<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

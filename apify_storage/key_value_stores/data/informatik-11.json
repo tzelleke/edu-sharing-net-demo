@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "level": 1,
+      "heading": {
+        "id": "48660",
+        "subject": "Inf",
+        "year": 11,
+        "section": "Lernbereich 1:",
+        "text": "Generalisierung",
+        "estimate": 8
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "analysieren und ordnen zweckmäßig hierarchische Strukturen aus ihrer Erfahrungswelt (z. B. Klassifizierung von Tieren) und erstellen entsprechende Generalisierungshierarchien in Form von Klassenmodellen.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren mithilfe einer objektorientierten Sprache Generalisierungshierarchien unter Berücksichtigung von Vererbung; dabei verwenden sie auch abstrakte Klassen.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "nutzen zur flexiblen Anpassung verschiedener Verhaltensweisen an den jeweiligen Kontext der Anwendungssituation (z. B. bei der rollenabhängigen Berechnung des Gehalts der Mitarbeiter in einem Unternehmen) zielführend das Konzept der Polymorphie durch Überschreiben von Methoden in Unterklassen.",
+              "competencies": "Prozessbezogene Kompetenzen: modellieren | implementieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Generalisierungshierarchie: Ober- und Unterklasse, grafische Darstellung der hierarchischen Klassenstruktur",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle<br />\n<br />"
+            },
+            {
+              "text": "Generalisierung und Spezialisierung als unterschiedliche Sichtweisen auf dieselbe Klassenbeziehung, Vererbung von Attributen und Methoden auf Unterklassen",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Abstrakte Klasse: Definition und grundlegende Konzeption, abstrakte Methode",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Polymorphismus und Überschreiben von Methoden",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Vererbung, Generalisierung, Spezialisierung, Polymorphismus, Oberklasse, Unterklasse, abstrakte Klasse, abstrakte Methode",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48662",
+        "subject": "Inf",
+        "year": 11,
+        "section": "Lernbereich 2:",
+        "text": "Die rekursive Datenstruktur Liste",
+        "estimate": 27
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "modellieren mithilfe einfach verketteter Listen lineare Datenstrukturen aus verschiedenen Situationen ihres Lebensumfeldes (z. B. Warteschlangen, Listen mit Personendaten). Sie nutzen dabei das Softwaremuster Kompositum und erkennen so den Vorteil einer bewährten Modellierungsstrategie.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "entwickeln unter Verwendung des Kompositums Algorithmen für die einfach verkettete Liste, um Elemente hinzuzufügen, zu löschen bzw. Berechnungen über die Listenelemente durchzuführen. Sie nutzen dabei das Prinzip der Rekursion als naheliegende Problemlösungsstrategie.",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren fachgerecht einfach verkettete Listen und die zugehörigen Algorithmen mithilfe einer objektorientierten Programmiersprache.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "bewerten und vergleichen in konkreten Anwendungssituationen dynamische Listenstrukturen mit der statischen Struktur Feld und schärfen damit ihr Bewusstsein für einen zielgerichteten Einsatz der Datenstrukturen.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten<br />\n<br />"
+            },
+            {
+              "text": "nutzen bei der Bearbeitung von Anwendungssituationen aus der Praxis durch fachgerechte Anpassung an die konkrete Aufgabenstellung die durch Trennung von Struktur und Inhalt bedingte universelle Einsetzbarkeit verketteter Listen.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | begründen und bewerten | modellieren | implementieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Liste als dynamische Datenstruktur zur Verwaltung von Datenbeständen mit flexibler Anzahl von Elementen versus Feld als statische Datenstruktur.",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Rekursion, rekursive Abläufe: rekursiver Aufruf, Abbruchbedingung, Aufrufsequenz",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "einfach verkettete Liste: allgemeines Prinzip, rekursive Struktur, ausgewählte und soweit möglich rekursiv definierte Methoden (u. a. zum Einfügen, Entfernen und Suchen von Elementen sowie zur Bestimmung der Listenlänge)",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Trennung von Struktur und Daten/Inhalt",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Kompositum (Composite Pattern) als Beispiel eines Softwaremusters",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Grundprinzip von Stapel (LIFO) und Warteschlange (FIFO) als Spezialfälle der verketteten Liste",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: statische Datenstruktur, dynamische Datenstruktur, (einfach verkettete) Liste, Rekursion, rekursive Methode, rekursiver Aufruf, Abbruchbedingung, Aufrufsequenz, Kompositum, LIFO, FIFO, Softwaremuster",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48664",
+        "subject": "Inf",
+        "year": 11,
+        "section": "Lernbereich 3:",
+        "text": "Die rekursive Datenstruktur Baum",
+        "estimate": 15
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "modellieren unter Berücksichtigung des Softwaremusters Kompositum und des Prinzips der Trennung von Struktur und Daten geordnete Binärbäume zu verschiedenen Problemstellungen ihres Erfahrungsbereiches (z. B. digitales Wörterbuch), in denen eine effiziente Datenhaltung wichtig ist. Durch den erneuten Einsatz des Kompositums erkennen sie die universelle Verwendbarkeit von Softwaremustern.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "entwickeln rekursive Algorithmen zur Verwaltung der Daten, die in einem Binärbaum abgespeichert sind (insbesondere  zur Traversierung eines Binärbaums sowie zum Einfügen und Suchen von Elementen in einem geordneten Binärbaum), und wenden diese Algorithmen an konkreten Beispielen an.",
+              "competencies": "Prozessbezogene Kompetenzen: analysieren | modellieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "implementieren fachgerecht auf Grundlage gegebener Modelle geordnete Binärbäume mithilfe einer objektorientierten Programmiersprache.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren<br />\n<br />"
+            },
+            {
+              "text": "bewerten und vergleichen geordnete Binärbäume mit verketteten Listen hinsichtlich der Effizienz bei Suchanfragen. Ihnen wird damit bewusst, dass insbesondere ein ausbalancierter geordneter Binärbaum eine in Hinblick auf die Suche sehr effiziente Datenstruktur ist.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten<br />\n<br />"
+            },
+            {
+              "text": "nutzen bei der Bearbeitung von verschiedenen Anwendungssituationen aus der Praxis (z. B. Speicherung unterschiedlicher Daten wie Lexikoneinträge oder Kundeninformationen in Binärbäumen) eine bereits implementierte Version eines geordneten Binärbaums und passen diese fachgerecht an die konkrete Aufgabenstellung an. Sie vertiefen dabei ihr Verständnis, dass insbesondere durch das Konzept der Trennung von Struktur und Daten grundsätzlich eine Wiederverwendbarkeit der bereits vorliegenden Implementierung möglich ist.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | modellieren | implementieren | anwenden<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Baum: Wurzel, Knoten, Kante, Blatt, Pfad, Höhe, Ebene; Binärbaum, Eigenschaften von Binärbäumen: vollständig, balanciert, entartet",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "geordneter Binärbaum: Grundkonzept, Einfügen und Suchen von Elementen",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Traversierungsstrategien, d. h. Verfahren zur Auflistung aller Elemente eines Binärbaums: Präorder, Inorder, Postorder",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Höhe, Ebene, Binärbaum (vollständig, balanciert, entartet, geordnet), Traversierung, Präorder, Inorder, Postorder",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48666",
+        "subject": "Inf",
+        "year": 11,
+        "section": "Lernbereich 4:",
+        "text": "Die Datenstruktur Graph",
+        "estimate": 13
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "modellieren sachgerecht vernetzte Strukturen (Graphen) im Rahmen praktischer Fragestellungen, z. B. zur Planung von Verkehrsrouten. Dadurch gewinnen sie einen nachhaltigen Einblick in die umfassende Rolle, die Graphen in vielen Bereichen des Alltags spielen.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | begründen und bewerten | analysieren | modellieren<br />\n<br />"
+            },
+            {
+              "text": "klassifizieren  Graphen allgemein und an konkreten Beispielen anhand ihrer Eigenschaften.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren<br />\n<br />"
+            },
+            {
+              "text": "implementieren mithilfe einer objektorientierten Programmiersprache und unter Verwendung einer Adjazenzmatrix auf fachgerechte Weise die Datenstruktur Graph.",
+              "competencies": "Prozessbezogene Kompetenzen: implementieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "erläutern allgemein und an konkreten Beispielen die Idee der Tiefensuche, formulieren den zugehörigen Algorithmus und wenden diesen an konkreten Beispielen an.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | modellieren | kooperieren und kommunizieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "beurteilen die Einsetzbarkeit der Tiefensuche hinsichtlich vorgegebener Anforderungen (z. B. Erreichbarkeit sämtlicher Knoten in einem Graphen, kürzester Weg zwischen zwei Knoten).",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten<br />\n<br />"
+            },
+            {
+              "text": "implementieren die Tiefensuche und modifizieren den Algorithmus in geeigneter, vom Anwendungskontext abhängiger Weise (z. B. bei der Auswahl aller Knoten mit bestimmten Eigenschaften).",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | implementieren<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Eigenschaften von Graphen: gerichtet, ungerichtet, zusammenhängend, unzusammenhängend, bewertet (gewichtet), unbewertet, mit Zyklen, zyklenfrei, Erreichbarkeit von Knoten",
+              "competencies": "Gegenstandsbereiche: Modelle | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Adjazenzmatrix, zweidimensionales Feld",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Daten und Datenstrukturen<br />\n<br />"
+            },
+            {
+              "text": "Algorithmus zum Graphendurchlauf am Beispiel der Tiefensuche",
+              "competencies": "Gegenstandsbereiche: Abläufe und Algorithmen<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: gerichtet, ungerichtet, zusammenhängend, unzusammenhängend, bewertet (gewichtet), unbewertet, mit Zyklen, zyklenfrei, Erreichbarkeit (von Knoten), zweidimensionales Feld, Adjazenzmatrix, Tiefensuche",
+              "competencies": "Gegenstandsbereiche: Information und ihre Repräsentationen | Modelle | Daten und Datenstrukturen | Abläufe und Algorithmen<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "heading": {
+        "id": "48668",
+        "subject": "Inf",
+        "year": 11,
+        "section": "Lernbereich 5:",
+        "text": "Softwaretechnik – Praktische Softwareentwicklung",
+        "estimate": 21
+      },
+      "content": [
+        {
+          "heading": "Kompetenzerwartungen",
+          "text": "Die Schülerinnen und Schüler ...",
+          "items": [
+            {
+              "text": "erläutern den Ablauf eines Softwareentwicklungsprojekts anhand der typischen Phasen des Wasserfallmodells.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | begründen und bewerten | kooperieren und kommunizieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "planen, strukturieren und koordinieren die Durchführung eines Softwareprojekts zu einer umfangreichen Aufgabenstellung aus der Praxis (z. B. Software zur Inventarverwaltung oder für einen einfachen Routenplaner), indem sie sich an einem etablierten Vorgehensmodell  der Softwareentwicklung (z. B. Wasserfallmodell) orientieren. Sie erhalten so einen realistischen Einblick in eine bewährte Vorgehensweise bei der Durchführung komplexer Projekte, wie sie beispielsweise im Berufsalltag auftreten.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | begründen und bewerten | analysieren | kooperieren und kommunizieren<br />\n<br />"
+            },
+            {
+              "text": "führen das Softwareprojekt entsprechend ihrer Planung im Team durch und berücksichtigen dabei Grundideen bewährter Softwarearchitekturen, wie z. B. Model-View-Controller (MVC). Sie setzen in diesem Zusammenhang geeignete Modellierungstechniken der Informatik (z. B. Klassen-, Zustandsdiagramme) situationsgerecht ein und implementieren den Systementwurf, ggf. unter Nutzung passender rekursiver dynamischer Datenstrukturen und geeigneter Programmbibliotheken.",
+              "competencies": "Prozessbezogene Kompetenzen: vernetzen | begründen und bewerten | analysieren | modellieren | implementieren | kooperieren und kommunizieren | anwenden<br />\n<br />"
+            },
+            {
+              "text": "prüfen und bewerten im laufenden Entwicklungsprozess mithilfe von praktischen Tests zur frühzeitigen Fehlererkennung die Richtigkeit der Softwarekomponenten hinsichtlich der in der Planung erstellten Spezifikation.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | analysieren | implementieren<br />\n<br />"
+            },
+            {
+              "text": "erstellen eine fachgerechte Dokumentation des Softwareprojekts und präsentieren die Ergebnisse der Projektarbeit in geeigneter Weise.",
+              "competencies": "Prozessbezogene Kompetenzen: begründen und bewerten | kooperieren und kommunizieren | anwenden<br />\n<br />"
+            }
+          ]
+        },
+        {
+          "heading": "Inhalte zu den Kompetenzen:",
+          "text": "",
+          "items": [
+            {
+              "text": "Grundlagen der Projektplanung: Zielsetzung, Arbeitsteilung, Schnittstellen, Meilensteine, Lasten- und Pflichtenheft",
+              "competencies": "Gegenstandsbereiche: Softwareprojekte<br />\n<br />"
+            },
+            {
+              "text": "Wasserfallmodell als klassisches Beispiel eines Vorgehensmodells in der Softwareentwicklung mit den typischen Phasen: Analyse, Entwurf, Implementierung, Test, Bewertung und Abnahme",
+              "competencies": "Gegenstandsbereiche: Softwareprojekte<br />\n<br />"
+            },
+            {
+              "text": "Grundkonzept des Softwaremusters Model-View-Controller (MVC)",
+              "competencies": "Gegenstandsbereiche: Modelle<br />\n<br />"
+            },
+            {
+              "text": "Verwendung von Frameworks oder Bibliotheken, z. B. zur Nutzung einer Datenbank oder von Dateien zur persistenten Datenspeicherung",
+              "competencies": "Gegenstandsbereiche: Informatiksysteme<br />\n<br />"
+            },
+            {
+              "text": "Fachbegriffe: Vorgehensmodell, Wasserfallmodell, Phasen, Meilenstein, Lastenheft, Pflichtenheft, Softwaremuster Model-View-Controller (MVC)",
+              "competencies": "Gegenstandsbereiche: Softwareprojekte<br />\n<br />"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
