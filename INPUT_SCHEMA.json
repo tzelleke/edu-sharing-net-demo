@@ -1,0 +1,15 @@
+{
+    "title": "CheerioCrawler Template",
+    "description": "lorem ipsum",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "subjects": {
+            "title": "Subjects",
+            "type": "array"
+        }
+    },
+    "required": [
+        "subjects"
+    ]
+}

@@ -1,0 +1,44 @@
+input:
+  file:
+    paths: [ ./data/mathematik-10.json ]
+    codec: all-bytes
+
+pipeline:
+  processors:
+    - bloblang: |
+        root = this.merge(
+          meta("path").
+            re_find_object("/(?P<subject>[^/]+)-(?P<year>\\d+).json$").
+            without("0")
+        )
+    - resource: main
+
+output:
+  type: stdout
+
+processor_resources:
+  - label: main
+    bloblang: |
+      map competencies {
+        root = this.
+          replace("<br />", "").trim().
+          re_replace("\n+", "\n").split("\n").
+          map_each(item -> item.split(":").(s -> {
+            "type": s.index(0).trim(),
+            "values": s.index(1).split("|").
+              map_each(ss -> ss.trim())
+          }))
+      }
+
+      map sections {
+        root = this.without("heading", "content")
+        root.id = this.heading.id
+        root.heading = this.heading.text
+        root.estimate = this.heading.estimate
+        root.items = this.content.map_each(e -> e.items)
+      }
+
+      root = this.without("data")
+      root.sections = this.data.map_each(
+        section -> section.apply("sections")
+      )

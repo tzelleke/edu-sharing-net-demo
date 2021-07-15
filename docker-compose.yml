@@ -1,0 +1,30 @@
+version: '3'
+
+volumes:
+  pgdata:
+
+services:
+  db:
+    image: postgres:13
+    container_name: db
+    environment:
+      - POSTGRES_DB=lehrplanplus
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+
+  benthos:
+    depends_on:
+      - db
+    image: jeffail/benthos
+    container_name: benthos
+    environment:
+      - POSTGRES_DB=lehrplanplus
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./benthos.yml:/benthos.yaml
+      - ./apify_storage/key_value_stores/data:/data
